@@ -2,8 +2,8 @@ Etätyössä luottamusta edistävän kahvihuonekeskusteluohjelmiston arviointike
 
 Johdanto aiheeseen
 Työntekijöiden välisen luottamuksen synty ja merkitys
-Kasuaali keskustelu luottamuksen luojana
 Kasuaali keskustelu etätyössä
+Ohjelmistojen arviointikehyksen teoria
 
 Etätyössä luottamusta edistävä kahvihuonekeskusteluohjelmisto
 	Ominaispiirteet
