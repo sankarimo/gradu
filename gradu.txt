@@ -1,13 +1,11 @@
-Etätyössä luottamusta edistävän kahvihuonekeskusteluohjelmiston arviointikehys
+Työpiste takkahuoneessa  - ohjelmistoalan etätyöläisten luottamusluonti 
 
 Johdanto aiheeseen
-Työntekijöiden välisen luottamuksen synty ja merkitys
-Kasuaali keskustelu etätyössä
-Ohjelmistojen arviointikehyksen teoria
+Työntekijöiden välisen luottamuksen merkitys
+Luottamuksen luominen työympäristössä
+Etätyön vaikutus luottamuksen luomiseen
 
-Etätyössä luottamusta edistävä kahvihuonekeskusteluohjelmisto
-	Ominaispiirteet
-	Arviointikehys
+Luottamuksen luominen ohjelmistoalan etätyöläisten välille
 
 Yhteenveto
 Viiteluettelo
