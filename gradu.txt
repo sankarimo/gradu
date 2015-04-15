@@ -1,12 +1,37 @@
 Työpiste takkahuoneessa  - ohjelmistoalan etätyöläisten luottamusluonti 
 
-Johdanto aiheeseen
-Työntekijöiden välisen luottamuksen merkitys
-Luottamuksen luominen työympäristössä
-Etätyön vaikutus luottamuksen luomiseen
+*Johdanto aiheeseen*
 
-Luottamuksen luominen ohjelmistoalan etätyöläisten välille
+Etätyö on ajasta ja paikasta riippumaton, luoville aloille vakiintunut työnteon muoto. Tämän ovat mahdollistaneet teknologinen kehitys. Kun sähköä löytyy lähes kaikkialta ja luotettava internet-verkkoyhteys tarjoaa yhteyden maailmaan, ei ole väliä sillä, mitä kantoa työn suorittaja tuolinaan käyttää.
 
-Yhteenveto
+Luovaa tekemistä kuvastaa se, ettei työsuoritus ole mekaaninen. Tehtävät toimenpiteet eivät ole useinkaan toistuvia. Tyypillisesti samankaltaisista ammattitaidon palasista kootaan päivästä toiseen erilaisien yhdistelmien kautta uudenlaisia lopputuloksia. Luovan työn vastapari, mekaaninen työ, taas tavoittaa lopputulosta, joka on samanlaatuinen huolimatta työn suorittaneesta tekijästä.
+
+Ohjelmistoala on luovuutta vaativa työala. Vaikka ohjelmoijankin työ on sivustaseuraajalle päivästä toiseen samankaltaisen ohjelmakoodin tuottamista, on kyseessä harha. Aivan kuten pienistä Lego-palikoista voi koota useita erilaisia taloja ja autoja, voi myös ohjelmakoodista tehdä vaihtelevan laatuisia ja erilaisia tarpeita täyttäviä ohjelmistoja. Legoista tehty talo, jossa ukon pää osuu kattoon, on eräänlainen näkemys talosta. Ohjelmisto, joka kuormittaa käyttäjänsä päätä verrattavin tavoin, on sekin tekijänsä näköinen luovuuden tulos. Jollei luovuus vaikuttaisi lopputulokseen, olisi jokainen lopputulos tasalaatuinen ja siten yhtä hyvä tai huono kuin toinenkin.
+
+Luovalla alalla yksilön taidoilla on merkittävä vaikutus siihen, kuinka hyvää työtä hän tekee. Ohjelmoijilla on tutkitusti ollut jopa kymmenkertaisia tuottavuuseroja keskimääräisiin suorittajiin verraten. Lahjakas henkilö voi myös aikaansaada työsuorituksia, joihin tavallinen suorittaja ei milloinkaan kykenisi.
+
+Tästä huolimatta, tyypillinen nykyaikainen ohjelmistoalan työsuoritus on tiimityön tulos. Siten siihen vaikuttaa myös se, kuinka onnistunutta tiimityöskentely on ollut. Tiimityöskentelyn perustana toimii luottamus muihin toimijoihin. Esimerkinomaisesti ohjelmoija, luottaessaan siihen, että kanssaohjelmoijat tekevät parhaansa ja ovat tehtäviensä tasalla, tekee parempaa työtä, kuin ohjelmoija, jolla ei vastaavanlaista luottamusta kollegoihinsa ole.
+
+Tämä tutkimus keskittyy selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Vaikka ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, ei luottamuksen rakentumisen pilareihin käytetty merkittävästi aikaa.
+
+Ihmiset ovat samanlaisia, ovat he sitten etätyötä tai perinteisempää samassa tilassa työtä tekeviä henkilöitä, mutta etätyö aiheuttaa rajoituksia kanssakäymiselle. Tässä tutkimuksessa käytetään hyväksi nykytutkimusta. Aluksi selvitetään, mitä hyötyä luottamuksesta on. Kun luottamuksen merkitys on iskostettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
+
+Tutkimuksessa tarkastellaan etätyötä sanan hyvin suppeassa merkityksessä, eli pääsääntöisesti etätyötä omilla tahoillaan tekevien ohjelmistoalan työntekijöiden osalta. Tämä tutkimus ei ota kantaa työsuorituksen muotoon, eli tehdäänkö työtä projektimuotoisesti, osa-aikaisesti, vakavahenkisesti, vai näennäisesti. Tutkimus ei myöskään pyri antamaan vastauksia siihen, kuinka rakentaa luottamusta useisiin toimipisteisiin hajautettujen tiimien välisen luottamuksen rakentamiseen. Ohjelmistokehitystä globaalissa mittakaavassa on tutkittu aiemminkin. Tämä tutkimus on asetelmaltaan erilainen. Toisin kuin hajautetussa ohjelmistokehityksessä, jossa ihmiset kohtaavat toisiaan säännöllisesti toimipisteillä, tarkastellaan nyt tilannetta, jossa henkilöt tapaavat kollegoitaan vain hyvin harvoin, ja suorittavat lähtökohtaisesti kaiken viestintänsä erilaisin sähköisin apuvälinein, kuitenkaan eivät samassa tilassa kasvotusten.
+
+Kaikille työntekijöille yhtenäinen kasvotusten kohtaamisen vähäisyys aiheuttaa omanlaisiaan pulmia luottamuksen rakentamiselle.
+
+Tutkimuksen tavoitteena on selvittää, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille.
+
+Tutkimuskysymykset kuuluvat seuraavasti:
+1. Mitkä asiat luovat luottamusta ohjelmistoalan ei-etätyöläisten välille?
+2. Mitä ongelmia luottamuksen rakentamisessa ohjelmistoalan etätyöläisten välillä on?
+
+*Työntekijöiden välisen luottamuksen merkitys*
+*Luottamuksen luominen työympäristössä*
+*Etätyön vaikutus luottamuksen luomiseen*
+
+*Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
+
+*Yhteenveto*
 Viiteluettelo
 Liitteet
