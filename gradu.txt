@@ -42,7 +42,7 @@ Toisin tiivistäen, luottamuksella tarkoitetaan sitä, että ihminen kokee kanss
 
 Luottamus on keskeinen tekijä työympäristössä. Blomqvist [1997] kiteyttää sen olevan tärkeää sellaisissa asioissa kuin kommunikoinnissa, oppimisessa ja ongelmanratkaisussa. Luovalla alalla työskentely edellyttää päivittäin kaikkia näitä toimenpiteitä.
 
-Asian tärkeys korostuu, kun tutkitaan luottamuksen vastakohdan, epäluottamuksen, seurauksia. Mikäli ihmiset eivät luota toisiinsa, he käyttäytyvät itsekkäämmin ja pelokkaammin, kuin toimisivat tavallisissa olosuhteissa. Tällöin he esimerkiksi salaavat tietoa. Tämä juontuu pelosta, että tietoa käytetään heitä vastaan, tai että jakamalla tiedon muidenkin käyttöön he tekevät itsensä tarpeettomiksi ja siten korvattaviksi. Lisäksi epäluottamus saa kyseenalaistamaan muiden hyvää tarkoittavia tekoja ja näkemään ne haitallisessa valossa. Kahvihuoneeseen tuodut pullat ovatkin häikäilemätön yritys päästä mielistelemällä muiden suosioon. Tällaisessa tilanteessa kollegaa ei hevin auteta, ellei tästä saa itselle näkyvää tunnustusta. Myöskään apua ei kysytä, jotta ei vaikuttaisi ammattitaidottomalta. Kaiken kaikkiaan epäluottamus johtaa huonoon työilmapiiriin, itsekeskeiseen toimintaan ja mikä tuhoavinta, on itseään ruokkiva ilmiö, joka edelleen lisää epäluottamusta.
+Asian tärkeys korostuu, kun tutkitaan luottamuksen vastakohdan, epäluottamuksen, seurauksia. Mikäli ihmiset eivät luota toisiinsa, he käyttäytyvät itsekkäämmin ja pelokkaammin kuin toimisivat tavallisissa olosuhteissa. Tällöin he esimerkiksi salaavat tietoa. Tämä juontuu pelosta, että tietoa käytetään heitä vastaan, tai että jakamalla tiedon muidenkin käyttöön he tekevät itsensä tarpeettomiksi ja siten korvattaviksi. Lisäksi epäluottamus saa kyseenalaistamaan muiden hyvää tarkoittavia tekoja ja näkemään ne haitallisessa valossa. Kahvihuoneeseen tuodut pullat ovatkin häikäilemätön yritys päästä mielistelemällä muiden suosioon. Tällaisessa tilanteessa kollegaa ei hevin auteta, ellei tästä saa itselle näkyvää tunnustusta. Myöskään apua ei kysytä, jotta ei vaikuttaisi ammattitaidottomalta. Kaiken kaikkiaan epäluottamus johtaa huonoon työilmapiiriin, itsekeskeiseen toimintaan ja mikä tuhoavinta, on itseään ruokkiva ilmiö, joka edelleen lisää epäluottamusta. Kuten Derosa ja Lepsinger [2010] kirjoittavat, mikään ei rampauta ryhmän tehokkuutta kuin sen jäsenten välinen epäluottamus.
 
 Luottamuksen vallitessa tapahtuu päinvastaista. Kanssatyöntekijöiden tavoitteet koetaan yhteistä hyvää tuottavina ja heitä ollaan valmiita auttamaan kysymättäkin. Luottamus kollegoihin edistää työviihtyvyyttä, vähentää irtisanoutumisia ja lisää luovuutta. Kun ihmiset koetaan luotettavina, heihin ollaan valmiimpia tutustumaan. Tämä tiedonvaihto paitsi ruokkii entisestään luottamusta, tarjoaa myös mahdollisuuden vaihtaa sellaista työkeskeistä tietoa, joka ei välttämättä työtehtävien kautta tulisi vaihdetuksi.
 
@@ -52,7 +52,7 @@ Tietämyksen hallinta on monivaiheinen prosessi, joka kattaa tiedon elinkaaren v
 
 *Luottamuksen luominen työympäristössä*
 
-Luottamuksen luomiseen on useita rinnakkaisia ja lomittuvia tapoja. Karkealla tasolla ihmisten välinen luottamus syntyy joko työkeskeisistä tai kasuaalimmista kokemuksista. Työkeskeisiä kokemuksia ovat yhdessä istutut palaverit, pariohjelmointi ja tiukkaa aikataulua vasten valmiiksi saatu ohjelmisto. Näiden lomassa, mutta myös aivan näistä irrallaan, voi syntyä kasuaaleja kokemuksia. Niissä luottamuksen lähteinä ovat  sellainen persoonaan ja arvomaailmaan tutustuminen, jota ei työtehtävien myötä tapahdu. Kahvin ääressä kuulumisien vaihtaminen, sanailu ja vitsailu käyvät tästä esimerkkeinä. Jokainen ihmiskohtaaminen on mahdollisuus luottamuksen rakentamiseen.
+Luottamuksen luomiseen on useita rinnakkaisia ja lomittuvia tapoja. Karkealla tasolla ihmisten välinen luottamus syntyy joko työkeskeisistä tai kasuaalimmista kokemuksista. Työkeskeisiä kokemuksia ovat yhdessä istutut palaverit ja pariohjelmointi. Sellaiseksi lukeutuu myös tiukkaa aikataulua vasten valmiiksi saatu ohjelmiston osanen [Henttonen and Blomqvist, 2005]. Näiden lomassa, mutta myös aivan näistä irrallaan, voi syntyä kasuaaleja kokemuksia. Niissä luottamuksen lähteinä ovat  sellainen persoonaan ja arvomaailmaan tutustuminen, jota ei työtehtävien myötä tapahdu. Kahvin ääressä kuulumisien vaihtaminen, sanailu ja vitsailu käyvät tästä esimerkkeinä. Jokainen ihmiskohtaaminen on mahdollisuus luottamuksen rakentamiseen.
 
 Organisaatio voi tukea työntekijöidensä välisen luottamuksen luontia niin raivaamalla esteitä kuin tarjoamalla syntymahdollisuuksia. Esteitä luottamuksen syntymiselle ovat kiire, kielteinen suhtautuminen ei-työsidonnaiseen kanssakäymiseen, sekä yhteiseen kanssakäymiseen soveltuvien tilojen puute. Syntymahdollisuuksia tarjoavat koulutustilanteet, vapaamuotoiset tapahtumat ja avoin ilmapiiri. Ihmisiä ei kuitenkaan voi pakottaa luottamaan toisiinsa. Luottamus on aina kahden yksilön välille syntyvä suhde, jolle voi antaa kasvualustan, mutta jota ei voi pakottaa kasvamaan [Ford, 2001].
 
@@ -96,7 +96,25 @@ Etätyötä tekevät ihmiset ovat samanlaisia ihmisiä kuin nekin, jotka eivät 
 
 *Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
 
-Luottamuksen rakentaminen etätyöläisten välille käy teorian tasolla samoin konstein kuin tavallisissa työoloissa työskentelevienkin. 
+Luottamuksen rakentaminen etätyöläisten välille käy teorian tasolla samoin konstein kuin tavallisissa työoloissa työskentelevienkin. Erilaiset olosuhteet aiheuttavat kuitenkin sen, ettei luottamuksen rakentamista voi jättää ihmisille ominaisen sosiaalisuuden varaan. Jokaisen työntekijän luottamuksen rakentumista tulee tukea. Tavallisessa työympäristössä on silmiinpistävää, jos joku erkaantuu joukosta ja syö lounaansa yksin. Etätyöläinen ei pistä samalla tavoin silmään, varsinkin, jos hän tekee työnsä tunnollisesti.
+
+Seikkoja:
+- Kasvotusten tapaaminen. Mahdollisimman aikaisessa vaiheessa, jotta kasvot tulevat tutuksi. [Derosa and Lepsinger, 2010] Mahdollisimman hyvän tutustumisen mahdollistava tutustuminen on erittäin tärkeää siksikin, että ensivaikutelma jää helposti voimaan pitkäksikin aikaa [Henttonen and Blomqvist, 2005]. Alkumetreillä aiheettomasti syntynyt epäilys toista kohtaan voi säilyä elinvoimaisena pitkään ja olla hankala korjattava.
+- Toisiin tutustumiseen panostaminen erityisesti heti alussa. [Derosa and Lepsinger, 2010]
+- Etätyön lainalaisuuksien kouluttaminen.
+- Kasuaalin keskustelun tukeminen ja siihen kannustaminen.
+- Kuulumisten kysyminen työnteon lomassa. [Derosa and Lepsinger, 2010]
+- Avoimuuden korostaminen, vaikeidenkin asioiden käsittely julkisesti.
+- Luotettavuuden osoittaminen ja lupauksista kiinnipitäminen
+- Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
+- Palautteen antaminen [Derosa and Lepsinger, 2010]
+- Muiden toimien lukeminen oletuksena hyvässä valossa.
+- Avoimuus ja suoruus viestinnässä: ei rivien välistä lukemista
+- Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010]
+-Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä
+- Tavoitettavuus, jotta viestinvaihdossa ei kulu kohtuutonta aikaa [Derosa and Lepsinger, 2010] [Henttonen and Blomqvist, 2005]
+- Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010] - sekä kommunikointiopas, älä viesti kun olet kovin väsynyt tai tunnekuohun valloissa [Derosa and Lepsinger, 2010]
+
 
 @todo Tämän kun johonkin saa liitettyä niin jopas on.
 Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
@@ -105,9 +123,13 @@ Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suora
 
 *Viiteluettelo*
 
-[Blomqvist, 1997] Blomqvist, Kirsimarja. The many faces of trust. Scandinavian journal of management 13 (3), 1997, 271-286.
+[Blomqvist, 1997] Kirsimarja Blomqvist. The many faces of trust. Scandinavian journal of management 13 (3), 1997, 271-286.
+
+[Derosa and Lepsinger, 2010] Darleen M. Derosa and Richard Lepsinger, Virtual Team Success: a Practical Guide for Working and Leading from a Distance. John Wiley and Sons, 2010.
 
 [Ford, 2001] Dianne Ford, Trust and Knowledge Management: The Seeds of Success. Queen's School of Business, Centre for Knowledge-Based Enterprises, 2001.
+
+[Henttonen and Blomqviest, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
 
 [Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
 
