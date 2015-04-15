@@ -92,7 +92,11 @@ Tilankäyttö on viimeinen nonverbaalisen viestinnän muodoista. Tällä viitata
 
 Huomioitavaa on, että perinteisessä, samassa toimipisteessä työskennellessäkin, sähköiset viestimet ovat käyttökelpoisia. Niitä voidaan käyttää aivan samoin tavoin tukemaan kasuaalia keskustelua ja luottamuksen rakentamista, kuin etätyössäkin. Tämä tutkielma kuitenkin argumentoi, että etätyössä jää uupumaan mahdollisuus tukeutua muihin kuin sähköisiin viestimiin. Siinä missä ohjelmiston suunnitteluapua voi tarjota lounasta vasten, ei etätyöläisellä ole tällaista helpon kasuaalin keskustelun mahdollistavaa toimintamallia. Kun kasvotusten saat vastauksen ongelmaasi, on mahdollista jatkaa keskustelua asian ohitse. Saman tapahtuessa sähköisen viestimen ylitse ei samanlaista syytä keskustelun jatkamiselle ole, vaan sen voi aivan hyvin lopettaa. Tämä puuttuvan elementin osuus tekee etätyön ja tavallisen työn vertailun hedelmälliseksi.
 
+Etätyötä tekevät ihmiset ovat samanlaisia ihmisiä kuin nekin, jotka eivät tee etätyötä. Työskentelytavalle luontaista on kuitenkin näkymättömyys. Kun ihmiset eivät ilmesty töihin joka päivä, eivätkä tallusta käytävällä vastaan, on heidän olemassaolonsa helppo unohtaa ja ongelmansa sivuuttaa. Kun kukaan ei ole vieressä katsomassa, vaatii kulissien näyttävä kaataminen vaivannäköä. Jollei luottamuspulaa halua nostaa tapetille, on etätyöläisen helppo piilottaa huolensa. Vaikka työntekijöiden välillä vallitsevan epäluottamuksen voisi aistia viestinvaihdosta, on asian havaitseminen paljon vaikeampaa, kuin jos tuhahtelua ja vähättelyä todistaisi saman pöydän ääressä aamupalaverissa. Jollei luottamuksen rakentamiseen suhtaudu tavoitteellisesti, on se mahdollista jättää tyystin tekemättä, edes tarvetta sille huomaamatta.
+
 *Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
+
+Luottamuksen rakentaminen etätyöläisten välille käy teorian tasolla samoin konstein kuin tavallisissa työoloissa työskentelevienkin. 
 
 @todo Tämän kun johonkin saa liitettyä niin jopas on.
 Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
