@@ -38,10 +38,6 @@ Luottamus on yhdensuuntaista ja tilannesidonnaista. Toinen ihminen voi luottaa s
 
 Luottamus on keskeinen tekijä työympäristössä. Blomqvist [1997] kiteyttää sen olevan tärkeää sellaisissa asioissa kuin kommunikoinnissa, oppimisessa ja ongelmanratkaisussa. Luovalla alalla työskentely edellyttää päivittäin kaikkia näitä toimenpiteitä.
 
-Hyvä luottamussuhde mahdollistaa suoran kommunikoinnin, tehden viestinnästä helpompaa. Tämä on erityisen tärkeää etätyössä, jossa ajan ja tilan eroista johtuen viestintä on puutteellista. Kasvotusten käytävässä keskustelussa keskeinen ei-verbaalinen viestintä ei välity sellaisenaan sähköisien viestimien ylitse. Vaikka videoyhteydessä voi 
-
-Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
-
 *Luottamuksen luominen työympäristössä*
 
 Luottamuksen luomiseen on useita rinnakkaisia ja lomittuvia tapoja. Karkealla tasolla ihmisten välinen luottamus syntyy joko työkeskeisistä tai kasuaalimmista kokemuksista. Työkeskeisiä kokemuksia ovat yhdessä istutut palaverit, pariohjelmointi ja tiukkaa aikataulua vasten valmiiksi saatu ohjelmisto. Näiden lomassa, mutta myös aivan näistä irrallaan, voi syntyä kasuaaleja kokemuksia. Niissä luottamuksen lähteinä ovat  sellainen persoonaan ja arvomaailmaan tutustuminen, jota ei työtehtävien myötä tapahdu. Kahvin ääressä kuulumisien vaihtaminen, sanailu ja vitsailu käyvät tästä esimerkkeinä. Jokainen ihmiskohtaaminen on mahdollisuus luottamuksen rakentamiseen.
@@ -52,13 +48,36 @@ Organisaatio voi tukea työntekijöidensä välisen luottamuksen luontia niin ra
 
 Etätyöllä on merkittävä vaikutus tässä artikkelissa kuvatun kaltaisen luottamuksen luomiseen.
 
+**Altistuminen kanssaihmisille**
+
 Etätyön ja perinteisen työtavan merkittävin ero syntyy siitä, että työntekijät eivät voi kohdata toisiaan kasvotusten milloin haluavat. Tavallisella työpaikalla on mahdollista tavata toinen joko tavoitteellisesti, kuten kävelemällä työpisteelleen, tai vahingossa, kuten törmäämällä häneen kahvihuoneessa. Etätyöläiset eivät tyypillisesti ilmesty toistensa ovien taakse, tai ajaudu vahingossa työskentelemään samaiseen kahvilaan.
 
 Vaikka kasvotusten tapaaminen on järjestettävissä ja suotavaakin, on tutkimuksen lähtökohta se, etteivät etätyöläiset työskentele kävelymatkan päässä toisistaan. Jo pienikin välimatka, kuten sijoittuminen naapuritaloon, tai eri kerrokseen, tekee perinteisessä työpaikassa kohtaamiset harvinaisemmaksi. Näin voidaan ajatella, että samassa kaupungissakin työskentelevät etätyöläiset eivät todennäköisesti kohtaa toisiaan hetken mielijohteesta, vaan suunnitelluimmin tapaamisin.
 
 Tapaamisten asiapitoisuudesta seuraa, ettei epäviralliselle, kasuaalille keskustelulle ole välttämättä varattu lainkaan aikaa. Tämä pitää paikkansa, tapahtuu tapaaminen sitten harvinaisesti kasvotusten, tai jonkin sähköisen viestimen välityksellä. Tyypillisesti tapaamiselle varatun ajan puitteissa käydään läpi oleellisimmat asiakohdat, jonka jälkeen tapaaminen päättyy. Jos tuttavallisempaa kuulumisien vaihtoa käydäänkin, se ei ole asialistalla. Epävirallisen keskustelun laiminlyönnistä seuraa se, ettei työkaveria opi tuntemaan, eikä tästä kumpua luottamusta.
 
+**Kommunikointi ja nonverbaalinen viestintä**
+
+Hyvä luottamussuhde mahdollistaa suoran ja avoimen kommunikoinnin, tehden viestinnästä helpompaa. Tämä on erityisen tärkeää etätyössä, jossa ajan ja tilan eroista johtuen viestintä on puutteellista. Siksi ihmisten sanomisia on helppo tulkita väärin, joko liian kevyesti tai raskaasti. Asia korostuu, mikäli henkilöä ei tunne kovin hyvin, koska tällöin raskassoutuinen mököttäjä voikin kuvitelmissa olla nokkelasti maailmaa pilke silmäkulmassa kommentoiva vitsiniekka. Avoin ajatusmaailman ja tunnetilan kuvailu vähentävät tällaisten väärinkäsitysten mahdollisuutta.
+
+Kasvotusten käytävässä keskustelussa keskeinen ei-verbaalinen viestintä ei välity sellaisenaan sähköisien viestimien ylitse. Vihjeitä voi lukea myös muusta viestinnästä, alkaen aina tekstistä, edetän äänen kautta kuvayhteyteen, mutta tietoa on silti saatavilla vähemmän kuin kasvotusten. Tästäkin rajoituksesta voi seurata omanlaisiaan väärinkäsityksiä, jotka nakertavat luottamusta.
+
+Jo tekstistä voi havainnoida ilmaisuja tai niiden puutteita. Huutomerkit kielivät innostuksesta, hymiöt alleviivaavat vitsejä ja viestittelyn alusta puuttuva tervehdys tai jättämättä sanottu kiitos kertovat tyytymättömyydestä tai kiireestä.
+
+Äänestä voi tunnistaa samoja asioita kuin tekstistäkin, mutta selvemmin. Äänenpainosta voi kuulla samoja innostuksen tai kireyden merkkejä, mutta lisäksi ääni antaa tarkemman mielikuvan puhujasta. Onko ääni korkea vai matala, onko puhuja nuori vai vanha, mies vai nainen, näitä asioita ei teksti samalla tarkkuudella välitä.
+
+Mikäli mukaan yhdistetään vielä kuvayhteyskin, saa kanssakeskustelija kasvot. Kasvojen ilmeistä, elehtimisestä ja silmistä voi tulkita paljon sellaista, mikä ei puheessakaan välity. Intensiivinen seuraaminen voi kertoa keskusteluun sitoutumisesta, siinä missä katseen harhailu ja levottomuus kertovat toisenlaista tarina. Luottamuksen kannalta kuvayhteys on suureksi avuksi siinä, että kanssakeskustelija paljastuu viimein ihmiseksi, joka voi näyttää hassulta, mutta jolla on pääpiirteissään samanlainen kallonmuoto.
+
+Edes edistyneimmät tekniset apuvälineet eivät kuitenkaan anna täyttä nonverbaalisen viestinnän valikoimaa käyttöön. Viestinnän rytmitys ja osallistujien tilankäyttö jää vielä heikompaan asemaan. Kumpikin ovat tärkeitä viestin merkityksen syventäjiä, ja vaikuttavat luottamukseen nekin.
+
+Vaikka sähköisillä viestimillä voidaan rytmittää viestintää tauoin, ei niiden teho ole vastaavanlainen, kuin samassa tilassa käytettynä. Mikäli viestittely on luonteeltaan katkonaista, kuten pikaviestinten tapauksessa, voi tällainen tauko jäädä kokonaan huomaamatta. Venyessään minuutteihin vastaanottaja voi tulkita tapauksen aivan väärinkin. Piinalliseksi tarkoitettu passiivis-aggressiivinen hiljaisuus voidaan tulkita väärin niin, että kirjoittajalle on tullut muuta äkillistä tehtävää. Sehän voi johtua kevään ensimmäisen perhosen näkemisestä ja sen kiemurtelevan lennon seuraamisesta. Luottamus on tästä syystä erittäin tärkeää, sillä luottamuspulasta kärsivä vastaanottaja voi tulkita tahattomankin katkon hyökkäyksenä häntä kohtaan. Tällöin ei välttämättä auta selitys siitä, kuinka pihatiellä kolaroivat autot pakottivat ensiaputehtäviin, vaan epäilys voi jäädä kytemään käsittelyn kokeneen uhrin päähän.
+
+Tilankäyttö on viimeinen nonverbaalisen viestinnän muodoista. Tällä viitataan siihen, kuinka tilan tyypillisesti ottaisi haltuun. Istuuko pöydän päähän, vai istuuko ollenkaan. Tämän lisäksi keskustelijoiden välinen etäisyys kertoo suhteen luonteesta ja osallistujien välisestä luottamuksesta. Mitä lähempänä osalliset ovat, sitä välittömämmät ovat heidän välinsä. Tätä on hyvin vaikea simuloida sähköisin viestimin, vaikka sijoittumalla suhteessa kameraan voikin asiaa muuttaa. Kohti kameraa kurkottaminen kielii kiinnostuksesta, kun taas kauemmas vetäytyminen voi olla merkki käänteisestä. Tilankäyttö voi kuitenkin olla myös tahatonta, esimerkiksi huonon työtuolin aiheuttaman selkäkivun aiheuttamaa, eikä tästäkään pitäisi vetää liian äkkinäisiä johtopäätöksiä.
+
 *Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
+
+@todo Tämän kun johonkin saa liitettyä niin jopas on.
+Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
 
 *Yhteenveto*
 
