@@ -18,7 +18,7 @@ Ihmiset ovat samanlaisia, ovat he sitten etätyötä tai perinteisempää samass
 
 Tutkimuksessa tarkastellaan etätyötä sanan hyvin suppeassa merkityksessä, eli pääsääntöisesti etätyötä omilla tahoillaan tekevien ohjelmistoalan työntekijöiden osalta. Tämä tutkimus ei ota kantaa työsuorituksen muotoon, eli tehdäänkö työtä projektimuotoisesti, osa-aikaisesti, vakavahenkisesti, vai näennäisesti. Tutkimus ei myöskään pyri antamaan vastauksia siihen, kuinka rakentaa luottamusta useisiin toimipisteisiin hajautettujen tiimien välisen luottamuksen rakentamiseen. Ohjelmistokehitystä globaalissa mittakaavassa on tutkittu aiemminkin. Tämä tutkimus on asetelmaltaan erilainen. Toisin kuin hajautetussa ohjelmistokehityksessä, jossa ihmiset kohtaavat toisiaan säännöllisesti toimipisteillä, tarkastellaan nyt tilannetta, jossa henkilöt tapaavat kollegoitaan vain hyvin harvoin, ja suorittavat lähtökohtaisesti kaiken viestintänsä erilaisin sähköisin apuvälinein, kuitenkaan eivät samassa tilassa kasvotusten.
 
-Kaikille työntekijöille yhtenäinen kasvotusten kohtaamisen vähäisyys aiheuttaa omanlaisiaan pulmia luottamuksen rakentamiselle.
+Kaikille työntekijöille yhtenäinen kasvotusten kohtaamisen vähäisyys aiheuttaa omanlaisiaan pulmia luottamuksen rakentamiselle. Vaikka luottamuksen luonnetta nimenomaan etätyössä on tutkittu, on vielä avoimeksi jäänyt se, kuinka luottamusta voisi tässä ympäristössä rakentaa [Mitchell and Zigurs, 2009].
 
 Tutkimuksen tavoitteena on selvittää, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille.
 
@@ -26,12 +26,50 @@ Tutkimuskysymykset kuuluvat seuraavasti:
 1. Mitkä asiat luovat luottamusta ohjelmistoalan ei-etätyöläisten välille?
 2. Mitä ongelmia luottamuksen rakentamisessa ohjelmistoalan etätyöläisten välillä on?
 
+*Luottamuksen määritelmä*
+
+Luottamus on kaunis sana, joka on vaikea määritellä tyhjentävästi. Aiempi tutkimus on tunnistanut sanalle useita kymmeniä määritelmiä [Walterbusch et al., 2014]. Lisäksi luottamusta on yritetty selittää osiin sen lähteen, tyypin ja kohteen mukaisesti [Ford, 2001]. Tässä selityksessä lähteellä tarkoitetaan esimerkiksi taloudellista, tietämyksellistä tai persoonalähtöistä luottamusta. Tyyppi kuvastaa joko henkilösidosteista luottamusta, tai luottamusta, joka johtuu asemasta tai tittelistä. Luottamuksen kohteella on merkittävä vaikutus siihen, mitä luottamuksella voidaan saavuttaa. Ihmisen luottamus toiseen voi johtaa suhdetta lujittavaan uskoutumiseen ja onnen tunteeseen. Sen sijaan luotettavaakaan yritystä ei voi halata, mutta siihen sijoitettu pääoma voi tuottaa mukavia asioita myöhemmin. Vaikka määrällisesti luottamusta on tutkittu paljon, ei yksiselitteistä määritelmää termille vielä ole [Walterbusch et al., 2014].
+
+Tutkimuksessa luottamuksella tarkoitetaan ihmisten välistä luottamusta. Vaikka ihmisten ja organisaation välinen luottamus on sekin tärkeää, sitä ei käsitellä asian laajuuden tähden. Niin ikään tarkastelun ulkopuolelle jäävät luottamuksen lähteet sellaisina kuin ne tieteessä tunnetaan. Luottamuksen voimakkuutta kuitenkin sivutaan. Luottamusakselin toisessa päässä on epäluottamus, toisessa vankkumaton luottamus.
+
+Luottamus on yhdensuuntaista ja tilannesidonnaista. Toinen ihminen voi luottaa sokeasti toiseen, vaikka toiseen suuntaan vallitsisi syvä epäluottamus. Tilannesidonnaisuus tarkoittaa sitä, että ihmiseen voi luottaa työasioissa, vaikkei milloinkaan hyppäisi tämän ohjaaman auton kyytiin.
+
 *Työntekijöiden välisen luottamuksen merkitys*
+
+Luottamus on keskeinen tekijä työympäristössä. Blomqvist [1997] kiteyttää sen olevan tärkeää sellaisissa asioissa kuin kommunikoinnissa, oppimisessa ja ongelmanratkaisussa. Luovalla alalla työskentely edellyttää päivittäin kaikkia näitä toimenpiteitä.
+
+Hyvä luottamussuhde mahdollistaa suoran kommunikoinnin, tehden viestinnästä helpompaa. Tämä on erityisen tärkeää etätyössä, jossa ajan ja tilan eroista johtuen viestintä on puutteellista. Kasvotusten käytävässä keskustelussa keskeinen ei-verbaalinen viestintä ei välity sellaisenaan sähköisien viestimien ylitse. Vaikka videoyhteydessä voi 
+
+Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
+
 *Luottamuksen luominen työympäristössä*
+
+Luottamuksen luomiseen on useita rinnakkaisia ja lomittuvia tapoja. Karkealla tasolla ihmisten välinen luottamus syntyy joko työkeskeisistä tai kasuaalimmista kokemuksista. Työkeskeisiä kokemuksia ovat yhdessä istutut palaverit, pariohjelmointi ja tiukkaa aikataulua vasten valmiiksi saatu ohjelmisto. Näiden lomassa, mutta myös aivan näistä irrallaan, voi syntyä kasuaaleja kokemuksia. Niissä luottamuksen lähteinä ovat  sellainen persoonaan ja arvomaailmaan tutustuminen, jota ei työtehtävien myötä tapahdu. Kahvin ääressä kuulumisien vaihtaminen, sanailu ja vitsailu käyvät tästä esimerkkeinä. Jokainen ihmiskohtaaminen on mahdollisuus luottamuksen rakentamiseen.
+
+Organisaatio voi tukea työntekijöidensä välisen luottamuksen luontia niin raivaamalla esteitä kuin tarjoamalla syntymahdollisuuksia. Esteitä luottamuksen syntymiselle ovat kiire, kielteinen suhtautuminen ei-työsidonnaiseen kanssakäymiseen, sekä yhteiseen kanssakäymiseen soveltuvien tilojen puute. Syntymahdollisuuksia tarjoavat koulutustilanteet, vapaamuotoiset tapahtumat ja avoin ilmapiiri. Ihmisiä ei kuitenkaan voi pakottaa luottamaan toisiinsa. Luottamus on aina kahden yksilön välille syntyvä suhde, jolle voi antaa kasvualustan, mutta jota ei voi pakottaa kukkimaan [Ford, 2001].
+
 *Etätyön vaikutus luottamuksen luomiseen*
+
+Etätyöllä on merkittävä vaikutus tässä artikkelissa kuvatun kaltaisen luottamuksen luomiseen.
+
+Etätyön ja perinteisen työtavan merkittävin ero syntyy siitä, että työntekijät eivät voi kohdata toisiaan kasvotusten milloin haluavat. Tavallisella työpaikalla on mahdollista tavata toinen joko tavoitteellisesti, kuten kävelemällä työpisteelleen, tai vahingossa, kuten törmäämällä häneen kahvihuoneessa. Etätyöläiset eivät tyypillisesti ilmesty toistensa ovien taakse, tai ajaudu vahingossa työskentelemään samaiseen kahvilaan.
+
+Vaikka kasvotusten tapaaminen on järjestettävissä ja suotavaakin, on tutkimuksen lähtökohta se, etteivät etätyöläiset työskentele kävelymatkan päässä toisistaan. Jo pienikin välimatka, kuten sijoittuminen naapuritaloon, tai eri kerrokseen, tekee perinteisessä työpaikassa kohtaamiset harvinaisemmaksi. Näin voidaan ajatella, että samassa kaupungissakin työskentelevät etätyöläiset eivät todennäköisesti kohtaa toisiaan hetken mielijohteesta, vaan suunnitelluimmin tapaamisin.
+
+Tapaamisten asiapitoisuudesta seuraa, ettei epäviralliselle, kasuaalille keskustelulle ole välttämättä varattu lainkaan aikaa. Tämä pitää paikkansa, tapahtuu tapaaminen sitten harvinaisesti kasvotusten, tai jonkin sähköisen viestimen välityksellä. Tyypillisesti tapaamiselle varatun ajan puitteissa käydään läpi oleellisimmat asiakohdat, jonka jälkeen tapaaminen päättyy. Jos tuttavallisempaa kuulumisien vaihtoa käydäänkin, se ei ole asialistalla. Epävirallisen keskustelun laiminlyönnistä seuraa se, ettei työkaveria opi tuntemaan, eikä tästä kumpua luottamusta.
 
 *Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
 
 *Yhteenveto*
-Viiteluettelo
+
+*Viiteluettelo*
+
+[Blomqvist, 1997] Blomqvist, Kirsimarja. The many faces of trust. Scandinavian journal of management 13 (3), 1997, 271-286.
+
+[Ford, 2001] Dianne Ford, Trust and Knowledge Management: The Seeds of Success. Queen's School of Business, Centre for Knowledge-Based Enterprises, 2001.
+
+[Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
+
+[Walterbusch et al., 2014] Marc Walterbusch, Matthias Gräuler, and Frank Teuteberg, How trust is defined: a qualitative and quantitative analysis of scientific literature. In: Twentieth Americas Conference on Information Systems, Savannah, 2014.
+
 Liitteet
