@@ -12,9 +12,9 @@ Luovalla alalla yksilön taidoilla on merkittävä vaikutus siihen, kuinka hyvä
 
 Tästä huolimatta, tyypillinen nykyaikainen ohjelmistoalan työsuoritus on tiimityön tulos. Siten siihen vaikuttaa myös se, kuinka onnistunutta tiimityöskentely on ollut. Tiimityöskentelyn perustana toimii luottamus muihin toimijoihin. Esimerkinomaisesti ohjelmoija, luottaessaan siihen, että kanssaohjelmoijat tekevät parhaansa ja ovat tehtäviensä tasalla, tekee parempaa työtä, kuin ohjelmoija, jolla ei vastaavanlaista luottamusta kollegoihinsa ole.
 
-Tämä tutkimus keskittyy selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Vaikka ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, ei luottamuksen rakentumisen pilareihin käytetty merkittävästi aikaa.
+Tämä tutkimus keskittyy selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, mutta luottamuksen rakentumisen pilareita ei niinkään.
 
-Ihmiset ovat samanlaisia, ovat he sitten etätyötä tai perinteisempää samassa tilassa työtä tekeviä henkilöitä, mutta etätyö aiheuttaa rajoituksia kanssakäymiselle. Tässä tutkimuksessa käytetään hyväksi nykytutkimusta. Aluksi selvitetään, mitä hyötyä luottamuksesta on. Kun luottamuksen merkitys on iskostettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
+Ihmiset ovat samanlaisia, ovat he sitten etätyötä tai perinteisempää samassa tilassa työtä tekeviä henkilöitä, mutta etätyö aiheuttaa rajoituksia kanssakäymiselle. Tässä tutkimuksessa käytetään hyväksi nykytutkimusta. Aluksi selvitetään, mitä hyötyä luottamuksesta on. Kun luottamuksen tärkeys on osoitettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
 
 Tutkimuksessa tarkastellaan etätyötä sanan hyvin suppeassa merkityksessä, eli pääsääntöisesti etätyötä omilla tahoillaan tekevien ohjelmistoalan työntekijöiden osalta. Tämä tutkimus ei ota kantaa työsuorituksen muotoon, eli tehdäänkö työtä projektimuotoisesti, osa-aikaisesti, vakavahenkisesti, vai näennäisesti. Tutkimus ei myöskään pyri antamaan vastauksia siihen, kuinka rakentaa luottamusta useisiin toimipisteisiin hajautettujen tiimien välisen luottamuksen rakentamiseen. Ohjelmistokehitystä globaalissa mittakaavassa on tutkittu aiemminkin. Tämä tutkimus on asetelmaltaan erilainen. Toisin kuin hajautetussa ohjelmistokehityksessä, jossa ihmiset kohtaavat toisiaan säännöllisesti toimipisteillä, tarkastellaan nyt tilannetta, jossa henkilöt tapaavat kollegoitaan vain hyvin harvoin, ja suorittavat lähtökohtaisesti kaiken viestintänsä erilaisin sähköisin apuvälinein, kuitenkaan eivät samassa tilassa kasvotusten.
 
@@ -23,7 +23,7 @@ Kaikille työntekijöille yhtenäinen kasvotusten kohtaamisen vähäisyys aiheut
 Tutkimuksen tavoitteena on selvittää, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille.
 
 Tutkimuskysymykset kuuluvat seuraavasti:
-1. Mitkä asiat luovat luottamusta ohjelmistoalan ei-etätyöläisten välille?
+1. Mitkä asiat luovat luottamusta ohjelmistoalan työläisten välille?
 2. Mitä ongelmia luottamuksen rakentamisessa ohjelmistoalan etätyöläisten välillä on?
 
 Tavoitteen saavuttamiseksi tutkimuksessa käydään läpi olemassaolevaa tiedettä. Lähteet ovat valikoitu joukko luottamusta, etätyötä ja näitä aiheita kiinnostavin osin sivuavia julkaisuja, joiden pohjalta käyttökelpoisia käytänteitä johdetaan.
@@ -129,7 +129,7 @@ Aiemmassa esimerkkiässäkin tapauksessa hyvä luottamussuhde mahdollistaa suora
 
 [Ford, 2001] Dianne Ford, Trust and Knowledge Management: The Seeds of Success. Queen's School of Business, Centre for Knowledge-Based Enterprises, 2001.
 
-[Henttonen and Blomqviest, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
+[Henttonen and Blomqvist, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
 
 [Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
 
