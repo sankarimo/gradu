@@ -132,23 +132,30 @@ Etätyötä tekevät ihmiset ovat samanlaisia ihmisiä kuin nekin, jotka eivät 
 
 Luottamuksen rakentaminen etätyöläisten välille käy teorian tasolla samoin konstein kuin tavallisissa työoloissa työskentelevienkin. Erilaiset olosuhteet aiheuttavat kuitenkin sen, ettei luottamuksen rakentamista voi jättää ihmisille ominaisen sosiaalisuuden varaan. Jokaisen työntekijän luottamuksen rakentumista tulee tukea. Tavallisessa työympäristössä on silmiinpistävää, jos joku erkaantuu joukosta ja syö lounaansa yksin. Etätyöläinen ei pistä samalla tavoin silmään, varsinkaan, jos hän tekee työnsä tunnollisesti.
 
-Seikkoja:
+Tässä työssä luottamuksen rakentaminen käsitellään kahdella tasolla. Ensimmäisessä kohdassa kuvataan, miten työympäristö, siis työtä tarjoava organisaatio, voi edesauttaa luottamuksen syntymistä. Toinen kohta on varattu työtä tekevän yksilön omien toimien kuvailuun. Nämä pohjautuvat osin organisaation antamiin mahdollisuuksiin.
+
+**Organisaation luottamuksen luontia edistävät toimet**
+
+Kulttuurikysymyksiä.
 - Kasvotusten tapaaminen. Mahdollisimman aikaisessa vaiheessa, jotta kasvot tulevat tutuksi. [Derosa and Lepsinger, 2010] Mahdollisimman hyvän tutustumisen mahdollistava tutustuminen on erittäin tärkeää siksikin, että ensivaikutelma jää helposti voimaan pitkäksikin aikaa [Henttonen and Blomqvist, 2005]. Alkumetreillä aiheettomasti syntynyt epäilys toista kohtaan voi säilyä elinvoimaisena pitkään ja olla hankala korjattava.
-- Toisiin tutustumiseen panostaminen erityisesti heti alussa. [Derosa and Lepsinger, 2010]
 - Etätyön lainalaisuuksien kouluttaminen.
 - Kasuaalin keskustelun tukeminen ja siihen kannustaminen.
-- Kuulumisten kysyminen työnteon lomassa. [Derosa and Lepsinger, 2010]
 - Avoimuuden korostaminen, vaikeidenkin asioiden käsittely julkisesti.
-- Luotettavuuden osoittaminen ja lupauksista kiinnipitäminen
+- Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010]
+- Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010]
+- Mahdollisesti muiden kontribuutioiden seuraamistyökalut, kuten Ariadne [Trainer et al., 2011]
+
+**Etätyöntekijän luottamuksen luontia edistävät toimet**
 - Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
+- Toisiin tutustumiseen panostaminen erityisesti heti alussa. [Derosa and Lepsinger, 2010]
+- Kuulumisten kysyminen työnteon lomassa. [Derosa and Lepsinger, 2010]
+- Luotettavuuden osoittaminen ja lupauksista kiinnipitäminen
 - Palautteen antaminen [Derosa and Lepsinger, 2010]
 - Muiden toimien lukeminen oletuksena hyvässä valossa.
 - Avoimuus ja suoruus viestinnässä: ei rivien välistä lukemista
-- Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010]
 -Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä
+- sekä kommunikointiopas, älä viesti kun olet kovin väsynyt tai tunnekuohun valloissa [Derosa and Lepsinger, 2010]
 - Tavoitettavuus, jotta viestinvaihdossa ei kulu kohtuutonta aikaa [Derosa and Lepsinger, 2010] [Henttonen and Blomqvist, 2005]
-- Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010] - sekä kommunikointiopas, älä viesti kun olet kovin väsynyt tai tunnekuohun valloissa [Derosa and Lepsinger, 2010]
-
 
 @todo Tämän kun johonkin saa liitettyä niin jopas on.
 Aiemmań esimerkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
@@ -165,7 +172,11 @@ Aiemmań esimerkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäy
 
 [Henttonen and Blomqvist, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
 
+[Koehne et al., 2012] @todo
+
 [Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
+
+[Trainer et al., 2011] @todo
 
 [Walterbusch et al., 2014] Marc Walterbusch, Matthias Gräuler, and Frank Teuteberg, How trust is defined: a qualitative and quantitative analysis of scientific literature. In: Twentieth Americas Conference on Information Systems, Savannah, 2014.
 
