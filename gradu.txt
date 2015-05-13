@@ -145,31 +145,54 @@ Tässä työssä luottamuksen rakentaminen käsitellään kahdella tasolla. Ensi
 **Organisaation luottamuksen luontia edistävät toimet**
 
 Kulttuurikysymyksiä.
+
+***Kasvotusten tapaaminen***
 - Kasvotusten tapaaminen. Mahdollisimman aikaisessa vaiheessa, jotta kasvot tulevat tutuksi. [Derosa and Lepsinger, 2010] Mahdollisimman hyvän tutustumisen mahdollistava tutustuminen on erittäin tärkeää siksikin, että ensivaikutelma jää helposti voimaan pitkäksikin aikaa [Henttonen and Blomqvist, 2005]. Alkumetreillä aiheettomasti syntynyt epäilys toista kohtaan voi säilyä elinvoimaisena pitkään ja olla hankala korjattava. Kasvotusten kohtaamisia kannattaa tukea myöhemminkin esimerkiksi koulutustilaisuuksien muodossa [Casey and Richardson, 2009], [Casey, 2010].
+***Etätyön lainalaisuuksien kouluttaminen***
 - Etätyön lainalaisuuksien kouluttaminen [Casey and Richardson, 2009], [Casey, 2010].
+***Kasuaalin keskustelun tukeminen ja siihen kannustaminen***
 - Kasuaalin keskustelun tukeminen ja siihen kannustaminen. Esimerkiksi palaverien yhteydessä voidaan varata muutama minuutti epäviralliselle keskustelulle [Casey, 2010] 
+***Avoimuuden korostaminen***
 - Avoimuuden korostaminen, vaikeidenkin asioiden käsittely julkisesti.
 - Toisaalta kritiikin esittäminen yksityisesti? [Jarvenpaa et al., 1998]
+***Konfliktien käsittely***
 - Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010] [Jarvenpaa et al., 1998]
+***Kommunikointikäytäntöjen sopiminen***
 - Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010] [Jarvenpaa et al., 1998]. Pikaviestimillä voidaan helposti mahdollistaa luottamuksen luotuminen, ihmisten tutustuminen toisiinsa ja sosiaalisten verkostojen syntyminen [Ou et al., 2010]. Luottamuksen rakentumista voidaan tutkitusti edistää virtuaalimaailmoihin sijoittuvilla ohjelmilla, vaikka oudolta tuntuukin [Chandra et al., 2012]. Luottamuksen rakentamista nykyaikana valtavirtaa olevin pelein on myöskin ehdotettu [Smith, 2012]. Jälkimmäiset vaativat organisaatiotason hyväksynnän voidakseen toimia.
+***Tekemisien seuraamistyökalut***
 - Mahdollisesti muiden kontribuutioiden seuraamistyökalut, kuten Ariadne [Trainer et al., 2011]. Tästä voi olla iloa, koska yksi tutkimus havaitsi, että syy-seuraussuhde saattaa kääntyä vinksalleen: työtehtävien teko ei synnytä luottamusta, vaan luotettavien ihmisten uskotaan hoitavan työnsä, vaikkei tästä olisi näyttöjä [Zolin et al., 2004].
-- Erilaisten alueellisten painotusten merkitys (kts. johdantoluvun aiempi tutkimus [O'Leary and Mortensen, 2010])
+***Alueellisen jaottelun välttäminen***
 - Tiimin kohtelu tiiminä, huolimatta alueellisesta jakautumisesta [Casey, 2010]. Vaikka äärimmilleen hajautetussa ohjelmistokehityksessä merkitys on pienempi kuin kahden eri toimiston tilanteessa, on tämä tärkeä sudenkuoppa vältettäväksi.
+- @todo tarkista merkitys Erilaisten alueellisten painotusten merkitys (kts. johdantoluvun aiempi tutkimus [O'Leary and Mortensen, 2010])
+***Johtajuuden vaatiminen***
 - Tiimiä inspiroivan johtajan osoittaminen edistää tiimin sitoutumista, sillä hän voi toimia yhteyshenkilönä tiimiläisten välillä [Aparna et al, 2009] (@todo Ferrin 2006 on löytänyt johtajuuden luottamusvälityslinkkiluonteen?) (vaikka ohjelmistoalalla johtajuus saattaa olla parhaiten hankittua epävirallisesti vertaisista nostamalla) [@todo ei lähdettä]. Positiivisen ja kannustavan, ei-lannistavan johtajuuden korostaminen [Jarvenpaa et al., 1998]. Tiimin johtajan ei myöskään pitäisi johtaa pelolla, sillä se on omiaan tuhoamaan yhteistyön hedelmät [Casey, 2010]. Lisäksi johtajan on hyvä tunnistaa ja käyttää kaikki luottamusrakentamismahdollisuudet [Casey, 2010].
 
 **Etätyöntekijän luottamuksen luontia edistävät toimet**
-- Yksilö voi vaikuttaa omalla tekemisellään [Jarvenpaa et al., 1998]. Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
+
+Yksilö voi vaikuttaa omalla tekemisellään [Jarvenpaa et al., 1998]. Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
+
+***Toisiin tutustuminen***
 - Toisiin tutustumiseen panostaminen erityisesti heti alussa. [Derosa and Lepsinger, 2010]
+***Kuulumisten kysyminen***
 - Kuulumisten kysyminen työnteon lomassa. [Derosa and Lepsinger, 2010]
+***Luottamuksen ansaitseminen***
 - Luotettavuuden osoittaminen ja lupauksista kiinnipitäminen
+***Palautteen antaminen***
 - Palautteen antaminen [Derosa and Lepsinger, 2010]
+***Hyväntahtoisuus ja avoimuus***
 - Muiden toimien lukeminen oletuksena hyvässä valossa.
-- Tekemiseen keskittyminen, ei murehdita negatiivisia kommentteja tai lannistuta joidenkin ihmisten poissaolosta [Jarvenpaa et al., 1998].
-- Kaveria ei jätetä -mentaliteetti (@todo mieti onko soveltuva) [Jarvenpaa et al., 1998]
 - Avoimuus ja suoruus viestinnässä: ei rivien välistä lukemista
+***Tehtäväkeskeisyys***
+- Tekemiseen keskittyminen, ei murehdita negatiivisia kommentteja tai lannistuta joidenkin ihmisten poissaolosta [Jarvenpaa et al., 1998].
+***Huomaavaisuus***
+- Kaveria ei jätetä -mentaliteetti (@todo mieti onko soveltuva) [Jarvenpaa et al., 1998]
+***Yliviestiminen***
 -Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä. Palautteen anto silloinkin, kun ei itse ole se pätevin sitä antamaan, on myös luottamusta herättävää - ainakin verrattuna siihen, että vain vaikenisi [Jarvenpaa et al., 1998]. Luottamussuhteen olemassaoon tunnistaakin siitä, että tiedon kanssa ei säästellä [Lin and Huang, 2010].
+***Maltillisuus***
 - sekä kommunikointiopas, älä viesti kun olet kovin väsynyt tai tunnekuohun valloissa [Derosa and Lepsinger, 2010]
+***Tavoitettavuus***
 - Tavoitettavuus, jotta viestinvaihdossa ei kulu kohtuutonta aikaa [Derosa and Lepsinger, 2010] [Henttonen and Blomqvist, 2005] [Jarvenpaa et al., 1998]. 
+***Etukäteistiedottaminen***
 - Tulevista viestikatkoksista, kuten loman tähden voi käydä, tiedottaminen [Jarvenpaa et al., 1998].
 
 @todo Tämän kun johonkin saa liitettyä niin jopas on.
