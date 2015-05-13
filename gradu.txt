@@ -1,10 +1,10 @@
-Työpiste takkahuoneessa  - ohjelmistoalan etätyöläisten luottamusluonti 
+Välimatka, välimatka, välimatka  - ohjelmistoalan etätyöläisten luottamusluonti 
 
 *Johdanto aiheeseen*
 
 Tutkimuksen tavoitteena on selvittää kirjallisuuskatsauksen avulla, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille. Tavoitteen saavuttamiseksi tutkimuksessa käydään läpi olemassaolevaa tiedettä. Lähteeksi on valikoitu luottamusta, etätyötä ja näitä aiheita kiinnostavin osin sivuavia julkaisuja, joiden pohjalta käyttökelpoisia käytänteitä johdetaan. Lopputuloksena on yhteenveto tieteestä kumpuavista, hyviksi havaituista, käytännöistä, joilla toisistaan erillään työskentelevät ohjelmistoalan ihmiset saadaan luottamaan toisiinsa.
 
-Etätyö on ajasta ja paikasta riippumaton, luoville aloille vakiintunut työnteon muoto. Tämän ovat mahdollistaneet teknologinen kehitys. Kun sähköä löytyy lähes kaikkialta ja luotettava internet-verkkoyhteys tarjoaa yhteyden maailmaan, ei ole väliä sillä, mitä kantoa työn suorittaja tuolinaan käyttää.
+Etätyö on ajasta ja paikasta riippumaton, luoville aloille vakiintunut työnteon muoto. Tämän ovat mahdollistaneet teknologinen kehitys. Kun sähköä löytyy lähes kaikkialta ja luotettava internet-verkkoyhteys tarjoaa yhteyden maailmaan, ei ole väliä sillä, mitä kantoa työn suorittaja tuolinaan käyttää. Etätyöksi voidaan kutsua työtä, jossa kaikki kannot eivät sijaitse samassa metsässä.
 
 Luovaa tekemistä kuvastaa se, ettei työsuoritus ole mekaaninen. Tehtävät toimenpiteet eivät ole useinkaan toistuvia. Tyypillisesti samankaltaisista ammattitaidon palasista kootaan päivästä toiseen erilaisien yhdistelmien kautta uudenlaisia lopputuloksia. Luovan työn vastapari, mekaaninen työ, taas tavoittaa lopputulosta, joka on samanlaatuinen huolimatta työn suorittaneesta tekijästä.
 
@@ -14,7 +14,9 @@ Luovalla alalla yksilön taidoilla on merkittävä vaikutus siihen, kuinka hyvä
 
 Yksilöeroista tyypillinen nykyaikainen ohjelmistoalan työsuoritus on tiimityön tulos. Siten siihen vaikuttaa myös se, kuinka onnistunutta tiimissä toimiminen on ollut. Tiimityöskentelyn perustana toimii luottamus muihin toimijoihin. Ohjelmoija, luottaessaan siihen, että kanssaohjelmoijat tekevät parhaansa ja ovat tehtäviensä tasalla, tekee parempaa työtä, kuin ohjelmoija, jolla ei vastaavanlaista luottamusta kollegoihinsa ole. Paremmuuden aiheuttaa sitoutuminen työtehtävään, sekä muille avun tarjoaminen ja muiden avun hyödyntäminen.
 
-Tutkimuksessa tarkastellaan etätyötä sanan hyvin suppeassa merkityksessä, eli pääsääntöisesti etätyötä omilla tahoillaan tekevien ohjelmistoalan työntekijöiden osalta. Tämä tutkimus ei ota kantaa työsuorituksen muotoon, eli tehdäänkö työtä projektimuotoisesti, osa-aikaisesti, vakavahenkisesti, vai näennäisesti. Tutkimus ei myöskään pyri antamaan vastauksia siihen, kuinka rakentaa luottamusta useisiin toimipisteisiin hajautettujen tiimien välisen luottamuksen rakentamiseen. Ohjelmistokehitystä globaalissa mittakaavassa on tutkittu runsaasti. Tämä tutkimus on asetelmaltaan erilainen. Toisin kuin hajautetussa ohjelmistokehityksessä, jossa ihmiset kohtaavat toisiaan säännöllisesti toimipisteillä, tarkastellaan nyt tilannetta äärimmilleen hajautettua työympäristöä, jossa kukin tekee etätöitä omissa oloissaan. Tällöin henkilöt tapaavat kollegoitaan tyypillisesti vain hyvin harvoin, ja suorittavat kaiken tai lähes kaiken viestintänsä erilaisin sähköisin apuvälinein, kuitenkaan eivät samassa tilassa kasvotusten.
+Tutkimuksessa tarkastellaan etätyötä rajoitetulla määritelmällä, eli pääsääntöisesti etätyötä omilla tahoillaan tekevien ohjelmistoalan työntekijöiden osalta. Tämä tutkimus ei ota kantaa työsuorituksen muotoon, eli tehdäänkö työtä projektimuotoisesti, osa-aikaisesti, vakavahenkisesti, vai näennäisesti. Soveltuvuutta ei rajoita sekään, millä ohjelmistotuotantomenetelmällä työtä tehdään, oli se sitten vesiputousmalli tai ketterämpi vaihtoehtonsa. Vaikka useissa ketterissä menetelmissä painotetaan säännöllisiä kasvotusten pidettäviä palavereja, on luottamuksen rakentaminen mahdollista etätyöympäristössäkin [Dorairaj et al., 2012]. Tutkimus ei pyri antamaan vastauksia siihen, kuinka rakentaa luottamusta useisiin toimipisteisiin hajautettujen tiimien välille, vaikka tietoja siihenkin soveltaa.
+
+Ohjelmistokehitystä globaalissa mittakaavassa on tutkittu runsaasti. Tämä tutkimus on asetelmaltaan erilainen. Toisin kuin hajautetussa ohjelmistokehityksessä, jossa ihmiset kohtaavat toisiaan säännöllisesti toimipisteillä, tarkastellaan nyt tilannetta äärimmilleen hajautettua työympäristöä, jossa kukin tekee etätöitä omissa oloissaan. Tällöin henkilöt tapaavat kollegoitaan tyypillisesti vain hyvin harvoin, ja suorittavat kaiken tai lähes kaiken viestintänsä erilaisin sähköisin apuvälinein, kuitenkaan eivät samassa tilassa kasvotusten.
 
 Kaikille työntekijöille yhtenäinen kasvotusten kohtaamisen vähäisyys aiheuttaa omanlaisiaan pulmia luottamuksen rakentamiselle. Vaikka luottamuksen luonnetta nimenomaan etätyössä on tutkittu, on vielä avoimeksi jäänyt se, kuinka luottamusta voisi tässä ympäristössä rakentaa [Mitchell and Zigurs, 2009]. Ihmiset ovat samanlaisia, ovat he sitten etätyötä tai perinteisempää samassa tilassa työtä tekeviä henkilöitä, mutta etätyö aiheuttaa rajoituksia kanssakäymiselle. 
 
@@ -25,6 +27,8 @@ Tutkimuskysymykset kuuluvat seuraavasti:
 Tämä tutkimus keskittyy kirjallisuuskatsauksen kautta selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, mutta vähemmälle huomiolle ovat jääneet luottamuksen rakentumisen mekanismit. Tutkimus rakentuu olemassaolevan tiedon varaan, mutta poimii siitä nimenomaisesti tähän aihepiiriin soveltuvat osuudet. Tutkimusmenetelmä kuvataan seuraavassa luvussa.
 
 Tutkimusmenetelmän kuvauksen jälkeisissä luvuissa on tutkimuksen varsinainen anti. Ensinnä selvitetään, mitä luottamus on, ja mitä hyötyä siitä voi olla. Kun luottamuksen tärkeys on osoitettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
+
+Lopun yhteenvedossa käydään lyhyesti läpi tutkimuksen keskeiset löydökset, sekä näiden soveltamiseen kohdistuvat rajoitukset.
 
 *Tutkimusmenetelmän kuvaus*
 
@@ -48,7 +52,7 @@ Itse hakutuloksiin ei liittynyt muunlaista tulosjoukon rajoittamista. Esimerkiks
 
 **Aineiston koostaminen**
 
-Lopulliseen aineistoon eivät päätynyt kaikki hakutuloksien tuomat julkaisut, vaan tässä käytettiin sisältöperusteista valikointia. Ensinnä hakutuloksista jätettiin huomiotta ne, jotka olivat hakutermien täsmäävyydestä huolimatta ohiampuvia. Kuten todettua, luottamus on sanana yleinen, ja sen tähden tuloslistalla oli julkaisuja, joissa käsiteltiin esimerkiksi käyttäjän luottamusta tietotekniseen sovellukseen, tietotruvallisen ohjelmiston piirteitä tai sopimusosapuoliorganisaation luotettavuuden arviointia.
+Lopulliseen aineistoon eivät päätynyt kaikki hakutuloksien tuomat julkaisut, vaan tässä käytettiin sisältöperusteista valikointia. Ensinnä hakutuloksista jätettiin huomiotta ne, jotka olivat hakutermien täsmäävyydestä huolimatta ohiampuvia. Kuten todettua, luottamus on sanana yleinen, ja sen tähden tuloslistalla oli julkaisuja, joissa käsiteltiin esimerkiksi käyttäjän luottamusta tietotekniseen sovellukseen, tietoturvallisen ohjelmiston piirteitä tai sopimusosapuoliorganisaation luotettavuuden arviointia.
 
 Hakutuloksista otettiin otsikon ja tiivistelmän osuvuuden perusteella lähempään sisältötarkasteluun ne julkaisut, jotka eivät vielä olleet tarkastelun kohteiksi päätyneet. Tällä sisältötarkastelukierroksella artikkeli silmäiltiin pintapuolisesti läpi, tavoitteena etsiä yhtymäkohtia liittyen tutkittavaan aiheeseen. Jollei yhtymäkohtia ollut, poistettiin artikkeli aineistojen joukosta.
 
@@ -74,9 +78,9 @@ Tämän tutkimuksen tapauksessa luottamuksella tarkoitetaan sitä, että ihminen
 
 **Työntekijöiden välisen luottamuksen merkitys**
 
-Luottamus on keskeinen tekijä työympäristössä. Blomqvist [1997] kiteyttää sen olevan tärkeää sellaisissa asioissa kuin kommunikoinnissa, oppimisessa ja ongelmanratkaisussa. Luovalla alalla työskentely edellyttää päivittäin kaikkia näitä toimenpiteitä.
+Luottamus on keskeinen tekijä työympäristössä. Blomqvist [1997] kiteyttää sen olevan tärkeää sellaisissa asioissa kuin kommunikoinnissa, oppimisessa ja ongelmanratkaisussa. Luovalla alalla työskentely edellyttää päivittäin kaikkia näitä toimenpiteitä. On tutkittu, että toisiinsa luottavat ihmiset ovat alttiimpia jakamaan hiljaista tietoa toistensa kanssa [Holste and Fields, 2010]. Osaaminen, jota on varsin vaikea havaita näkemättä henkilöä työnsä ääressä, jää helposti yksinomaan haltijansa omaan tietoon. Tällä on erityisesti ohjelmistoalalla haitallisia seuraamuksia, sillä tiedonvaihdon on todettu joissakin tilanteissa lisäävän luovuutta, sen lisäksi, että se sivumennen luo luottamustakin [Gong et al., 2012].
 
-Asian tärkeys korostuu, kun tutkitaan luottamuksen vastakohdan, epäluottamuksen, seurauksia. Mikäli ihmiset eivät luota toisiinsa, he käyttäytyvät itsekkäämmin ja pelokkaammin kuin toimisivat tavallisissa olosuhteissa. Tällöin he esimerkiksi salaavat tietoa. Tämä juontuu pelosta, että tietoa käytetään heitä vastaan, tai että jakamalla tiedon muidenkin käyttöön he tekevät itsensä tarpeettomiksi ja siten korvattaviksi. Lisäksi epäluottamus saa kyseenalaistamaan muiden hyvää tarkoittavia tekoja ja näkemään ne haitallisessa valossa. Kahvihuoneeseen tuodut pullat ovatkin häikäilemätön yritys päästä mielistelemällä muiden suosioon. Tällaisessa tilanteessa kollegaa ei hevin auteta, ellei tästä saa itselle näkyvää tunnustusta. Myöskään apua ei kysytä, jotta ei itse vaikuttaisi ammattitaidottomalta. Epäluottamus johtaa huonoon työilmapiiriin, itsekeskeiseen toimintaan ja mikä tuhoavinta, on itseään ruokkiva ilmiö, joka edelleen lisää epäluottamusta. Kuten Derosa ja Lepsinger [2010] kirjoittavat, mikään ei rampauta ryhmän tehokkuutta kuin sen jäsenten välinen epäluottamus.
+Luottamuksen merkitys korostuu entisestään, kun tutkitaan sen vastakohdan, epäluottamuksen, seurauksia. Mikäli ihmiset eivät luota toisiinsa, he käyttäytyvät itsekkäämmin ja pelokkaammin kuin toimisivat tavallisissa olosuhteissa. Tällöin he esimerkiksi salaavat tietoa. Tämä juontuu pelosta, että tietoa käytetään heitä vastaan, tai että jakamalla tiedon muidenkin käyttöön he tekevät itsensä tarpeettomiksi ja siten korvattaviksi. Lisäksi epäluottamus saa kyseenalaistamaan muiden hyvää tarkoittavia tekoja ja näkemään ne haitallisessa valossa. Kahvihuoneeseen tuodut pullat ovatkin häikäilemätön yritys päästä mielistelemällä muiden suosioon. Tällaisessa tilanteessa kollegaa ei hevin auteta, ellei tästä saa itselle näkyvää tunnustusta. Myöskään apua ei kysytä, jotta ei itse vaikuttaisi ammattitaidottomalta. Epäluottamus johtaa huonoon työilmapiiriin, itsekeskeiseen toimintaan ja mikä tuhoavinta, on itseään ruokkiva ilmiö, joka edelleen lisää epäluottamusta. Kuten Derosa ja Lepsinger [2010] kirjoittavat, mikään ei rampauta ryhmän tehokkuutta kuin sen jäsenten välinen epäluottamus.
 
 Luottamuksen vallitessa tapahtuu päinvastaista. Kanssatyöntekijöiden tavoitteet koetaan yhteistä hyvää tuottavina ja heitä ollaan valmiita auttamaan kysymättäkin. Luottamus kollegoihin edistää työviihtyvyyttä, vähentää irtisanoutumisia ja lisää luovuutta. Kun ihmiset koetaan luotettavina, heihin ollaan valmiimpia tutustumaan. Tämä tiedonvaihto paitsi ruokkii entisestään luottamusta, tarjoaa myös mahdollisuuden vaihtaa sellaista työkeskeistä tietoa, joka ei välttämättä työtehtävien kautta tulisi vaihdetuksi.
 
@@ -124,9 +128,13 @@ Tilankäyttö on viimeinen nonverbaalisen viestinnän muodoista. Tällä viitata
 
 ** Etätyön rajoituksien korostaminen **
 
-Huomioitavaa on, että perinteisessä, samassa toimipisteessä työskennellessäkin, sähköiset viestimet ovat käyttökelpoisia. Niitä voidaan käyttää aivan samoin tavoin tukemaan kasuaalia keskustelua ja luottamuksen rakentamista, kuin etätyössäkin. Tämä tutkielma kuitenkin argumentoi, että etätyössä jää uupumaan mahdollisuus tukeutua muihin kuin sähköisiin viestimiin. Siinä missä ohjelmiston suunnitteluapua voi tarjota lounasta vasten, ei etätyöläisellä ole tällaista helpon kasuaalin keskustelun mahdollistavaa toimintamallia. Kun kasvotusten saat vastauksen ongelmaasi, on mahdollista jatkaa keskustelua asian ohitse. Saman tapahtuessa sähköisen viestimen ylitse ei samanlaista syytä keskustelun jatkamiselle ole, vaan sen voi aivan hyvin lopettaa ja keskittyä työntekoon. Tämä puuttuvan elementin osuus tekee etätyön ja tavallisen työn vertailun hedelmälliseksi.
+Huomioitavaa on, että perinteisessä, samassa toimipisteessä työskennellessäkin, sähköiset viestimet ovat käyttökelpoisia. Niitä voidaan käyttää aivan samoin tavoin tukemaan kasuaalia keskustelua ja luottamuksen rakentamista kuin etätyössäkin. Tämä tutkielma kuitenkin argumentoi, että etätyössä jää uupumaan mahdollisuus tukeutua muihin kuin sähköisiin viestimiin. Siinä missä ohjelmiston suunnitteluapua voi tarjota lounasta vasten, ei etätyöläisellä ole tällaista helpon kasuaalin keskustelun mahdollistavaa toimintamallia. Kun kasvotusten saat vastauksen ongelmaasi, on mahdollista jatkaa keskustelua asian ohitse. Saman tapahtuessa sähköisen viestimen ylitse ei samanlaista syytä keskustelun jatkamiselle ole, vaan sen voi aivan hyvin lopettaa ja keskittyä työntekoon. Tämä puuttuvan elementin osuus tekee etätyön ja tavallisen työn vertailun hedelmälliseksi.
 
-Etätyötä tekevät ihmiset ovat samanlaisia ihmisiä kuin nekin, jotka eivät tee etätyötä. Työskentelytavalle luontaista on kuitenkin näkymättömyys. Kun ihmiset eivät ilmesty töihin joka päivä, eivätkä tallusta käytävällä vastaan, on heidän olemassaolonsa helppo unohtaa ja ongelmansa sivuuttaa. Kun kukaan ei ole vieressä katsomassa, vaatii kulissien näyttävä kaataminen vaivannäköä. Jollei luottamuspulaa halua nostaa tapetille, on etätyöläisen helppo piilottaa huolensa. Vaikka työntekijöiden välillä vallitsevan epäluottamuksen voisi aistia viestinvaihdosta, sen luonteesta, kohteesta ja tiheydestä, on asian havaitseminen paljon vaikeampaa, kuin jos tuhahtelua ja vähättelyä todistaisi saman pöydän ääressä aamupalaverissa. Jollei luottamuksen rakentamiseen suhtaudu tavoitteellisesti, on se mahdollista jättää tyystin tekemättä, edes tarvetta sille huomaamatta. Tämä altistaa työympäristön epäluottamuksen syntymiselle ja laajentumiselle.
+Etätyötä tekevät ihmiset ovat samanlaisia ihmisiä kuin nekin, jotka eivät tee etätyötä. Työskentelytavalle luontaista on kuitenkin näkymättömyys. Kun ihmiset eivät ilmesty töihin joka päivä, eivätkä tallusta käytävällä vastaan, on heidän olemassaolonsa helppo unohtaa ja ongelmansa sivuuttaa. Kun kukaan ei ole vieressä katsomassa, vaatii kulissien näyttävä kaataminen vaivannäköä.
+
+Ongelmaista on, että etätyöläisen on halutessaan helppo piilottaa huolensa. Vaikka työntekijöiden välillä vallitsevan epäluottamuksen voisi aistia viestinvaihdosta, sen luonteesta, kohteesta ja tiheydestä, on asian havaitseminen paljon vaikeampaa, kuin jos tuhahtelua ja vähättelyä todistaisi saman pöydän ääressä aamupalaverissa. Luottamuspula voi johtaa siihen, että viestintätavoista valitaan epäsuorempi vaihtoehto [Casey and Richardson, 2009]. Merkki asiasta voi olla siis se, että kiireisessäkin asiassa soittamisen sijaan lähetetäänkin sähköpostia.
+
+Jollei luottamuksen rakentamiseen suhtaudu tavoitteellisesti, on se mahdollista jättää tyystin tekemättä, edes tarvetta sille huomaamatta. Tämä altistaa työympäristön epäluottamuksen syntymiselle ja laajentumiselle.
 
 *Luottamuksen luominen ohjelmistoalan etätyöläisten välille*
 
@@ -137,25 +145,32 @@ Tässä työssä luottamuksen rakentaminen käsitellään kahdella tasolla. Ensi
 **Organisaation luottamuksen luontia edistävät toimet**
 
 Kulttuurikysymyksiä.
-- Kasvotusten tapaaminen. Mahdollisimman aikaisessa vaiheessa, jotta kasvot tulevat tutuksi. [Derosa and Lepsinger, 2010] Mahdollisimman hyvän tutustumisen mahdollistava tutustuminen on erittäin tärkeää siksikin, että ensivaikutelma jää helposti voimaan pitkäksikin aikaa [Henttonen and Blomqvist, 2005]. Alkumetreillä aiheettomasti syntynyt epäilys toista kohtaan voi säilyä elinvoimaisena pitkään ja olla hankala korjattava.
-- Etätyön lainalaisuuksien kouluttaminen.
-- Kasuaalin keskustelun tukeminen ja siihen kannustaminen.
+- Kasvotusten tapaaminen. Mahdollisimman aikaisessa vaiheessa, jotta kasvot tulevat tutuksi. [Derosa and Lepsinger, 2010] Mahdollisimman hyvän tutustumisen mahdollistava tutustuminen on erittäin tärkeää siksikin, että ensivaikutelma jää helposti voimaan pitkäksikin aikaa [Henttonen and Blomqvist, 2005]. Alkumetreillä aiheettomasti syntynyt epäilys toista kohtaan voi säilyä elinvoimaisena pitkään ja olla hankala korjattava. Kasvotusten kohtaamisia kannattaa tukea myöhemminkin esimerkiksi koulutustilaisuuksien muodossa [Casey and Richardson, 2009], [Casey, 2010].
+- Etätyön lainalaisuuksien kouluttaminen [Casey and Richardson, 2009], [Casey, 2010].
+- Kasuaalin keskustelun tukeminen ja siihen kannustaminen. Esimerkiksi palaverien yhteydessä voidaan varata muutama minuutti epäviralliselle keskustelulle [Casey, 2010] 
 - Avoimuuden korostaminen, vaikeidenkin asioiden käsittely julkisesti.
-- Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010]
-- Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010]
-- Mahdollisesti muiden kontribuutioiden seuraamistyökalut, kuten Ariadne [Trainer et al., 2011]
+- Toisaalta kritiikin esittäminen yksityisesti? [Jarvenpaa et al., 1998]
+- Konfliktien nopea käsittely, parempi väärä hälytys kuin kytevä kauna [Derosa and Lepsinger, 2010] [Jarvenpaa et al., 1998]
+- Kommunikointitavoista sopiminen, jotta kukin tietää, miten toiset tavoittaa [Derosa and Lepsinger, 2010] [Jarvenpaa et al., 1998]. Pikaviestimillä voidaan helposti mahdollistaa luottamuksen luotuminen, ihmisten tutustuminen toisiinsa ja sosiaalisten verkostojen syntyminen [Ou et al., 2010]. Luottamuksen rakentumista voidaan tutkitusti edistää virtuaalimaailmoihin sijoittuvilla ohjelmilla, vaikka oudolta tuntuukin [Chandra et al., 2012]. Luottamuksen rakentamista nykyaikana valtavirtaa olevin pelein on myöskin ehdotettu [Smith, 2012]. Jälkimmäiset vaativat organisaatiotason hyväksynnän voidakseen toimia.
+- Mahdollisesti muiden kontribuutioiden seuraamistyökalut, kuten Ariadne [Trainer et al., 2011]. Tästä voi olla iloa, koska yksi tutkimus havaitsi, että syy-seuraussuhde saattaa kääntyä vinksalleen: työtehtävien teko ei synnytä luottamusta, vaan luotettavien ihmisten uskotaan hoitavan työnsä, vaikkei tästä olisi näyttöjä [Zolin et al., 2004].
+- Erilaisten alueellisten painotusten merkitys (kts. johdantoluvun aiempi tutkimus [O'Leary and Mortensen, 2010])
+- Tiimin kohtelu tiiminä, huolimatta alueellisesta jakautumisesta [Casey, 2010]. Vaikka äärimmilleen hajautetussa ohjelmistokehityksessä merkitys on pienempi kuin kahden eri toimiston tilanteessa, on tämä tärkeä sudenkuoppa vältettäväksi.
+- Tiimiä inspiroivan johtajan osoittaminen edistää tiimin sitoutumista, sillä hän voi toimia yhteyshenkilönä tiimiläisten välillä [Aparna et al, 2009] (@todo Ferrin 2006 on löytänyt johtajuuden luottamusvälityslinkkiluonteen?) (vaikka ohjelmistoalalla johtajuus saattaa olla parhaiten hankittua epävirallisesti vertaisista nostamalla) [@todo ei lähdettä]. Positiivisen ja kannustavan, ei-lannistavan johtajuuden korostaminen [Jarvenpaa et al., 1998]. Tiimin johtajan ei myöskään pitäisi johtaa pelolla, sillä se on omiaan tuhoamaan yhteistyön hedelmät [Casey, 2010]. Lisäksi johtajan on hyvä tunnistaa ja käyttää kaikki luottamusrakentamismahdollisuudet [Casey, 2010].
 
 **Etätyöntekijän luottamuksen luontia edistävät toimet**
-- Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
+- Yksilö voi vaikuttaa omalla tekemisellään [Jarvenpaa et al., 1998]. Yksilö voi aloittaa luottamusta rakentavat toimet, vaikka hitaastikin
 - Toisiin tutustumiseen panostaminen erityisesti heti alussa. [Derosa and Lepsinger, 2010]
 - Kuulumisten kysyminen työnteon lomassa. [Derosa and Lepsinger, 2010]
 - Luotettavuuden osoittaminen ja lupauksista kiinnipitäminen
 - Palautteen antaminen [Derosa and Lepsinger, 2010]
 - Muiden toimien lukeminen oletuksena hyvässä valossa.
+- Tekemiseen keskittyminen, ei murehdita negatiivisia kommentteja tai lannistuta joidenkin ihmisten poissaolosta [Jarvenpaa et al., 1998].
+- Kaveria ei jätetä -mentaliteetti (@todo mieti onko soveltuva) [Jarvenpaa et al., 1998]
 - Avoimuus ja suoruus viestinnässä: ei rivien välistä lukemista
--Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä
+-Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä. Palautteen anto silloinkin, kun ei itse ole se pätevin sitä antamaan, on myös luottamusta herättävää - ainakin verrattuna siihen, että vain vaikenisi [Jarvenpaa et al., 1998]. Luottamussuhteen olemassaoon tunnistaakin siitä, että tiedon kanssa ei säästellä [Lin and Huang, 2010].
 - sekä kommunikointiopas, älä viesti kun olet kovin väsynyt tai tunnekuohun valloissa [Derosa and Lepsinger, 2010]
-- Tavoitettavuus, jotta viestinvaihdossa ei kulu kohtuutonta aikaa [Derosa and Lepsinger, 2010] [Henttonen and Blomqvist, 2005]
+- Tavoitettavuus, jotta viestinvaihdossa ei kulu kohtuutonta aikaa [Derosa and Lepsinger, 2010] [Henttonen and Blomqvist, 2005] [Jarvenpaa et al., 1998]. 
+- Tulevista viestikatkoksista, kuten loman tähden voi käydä, tiedottaminen [Jarvenpaa et al., 1998].
 
 @todo Tämän kun johonkin saa liitettyä niin jopas on.
 Aiemmań esimerkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäytymisen, sen sijaan, että kieltäytyy kyydistä tekosyihin vedoten.
@@ -166,18 +181,38 @@ Aiemmań esimerkin tapauksessa hyvä luottamussuhde mahdollistaa suoran kieltäy
 
 [Blomqvist, 1997] Kirsimarja Blomqvist. The many faces of trust. Scandinavian journal of management 13 (3), 1997, 271-286.
 
+[Casey, 2010]
+
+[Casey and Richardson, 2009]
+
+[Chandra et al., 2012]
+
 [Derosa and Lepsinger, 2010] Darleen M. Derosa and Richard Lepsinger, Virtual Team Success: a Practical Guide for Working and Leading from a Distance. John Wiley and Sons, 2010.
+
+[Dorairaj et al., 2012]
 
 [Ford, 2001] Dianne Ford, Trust and Knowledge Management: The Seeds of Success. Queen's School of Business, Centre for Knowledge-Based Enterprises, 2001.
 
+[Gong et al., 2012]
+
 [Henttonen and Blomqvist, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
+
+[Holste and Fields, 2010]
+
+[Jarvenpaa et al., 1998] @todo
 
 [Koehne et al., 2012] @todo
 
+[Lin and Huang, 2010]
+
 [Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
+
+[Ou et al., 2010]
 
 [Trainer et al., 2011] @todo
 
 [Walterbusch et al., 2014] Marc Walterbusch, Matthias Gräuler, and Frank Teuteberg, How trust is defined: a qualitative and quantitative analysis of scientific literature. In: Twentieth Americas Conference on Information Systems, Savannah, 2014.
+
+[Zolin et al., 2004] @todo
 
 Liitteet
