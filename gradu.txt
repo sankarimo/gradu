@@ -231,7 +231,7 @@ Yksilö voi vaikuttaa omalla tekemisellään [Jarvenpaa et al., 1998]. Yksilö v
 ***Tehtäväkeskeisyys***
 - Tekemiseen keskittyminen, ei murehdita negatiivisia kommentteja tai lannistuta joidenkin ihmisten poissaolosta [Jarvenpaa et al., 1998].
 ***Yliviestiminen***
--Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä. Spontaanilla kommunikoinnilla on havaittu olevan konfliktitilanteita paljastava ja ehkäisevä vaikutus [Hinds and Mortensen, 2005]. Matemaattinen malli puoltaa sitä, että halpa sähköinen roskaviestintä (e-cheap talk) luo luottamusta ja on kannattavampaa kuin sen laiminlyöminen [Yi and Redmiles, 2013]. Palautteen anto silloinkin, kun ei itse ole se pätevin sitä antamaan, on myös luottamusta herättävää - ainakin verrattuna siihen, että vain vaikenisi [Jarvenpaa et al., 1998]. Luottamussuhteen olemassaoon tunnistaakin siitä, että tiedon kanssa ei säästellä [Lin and Huang, 2010]. Tässä on kuitenkin syytä huomata se, että työtä suorittavasta tahon puhuessa työtehtävistä on vaihdettavan tiedon on syytä olla oikea-aikaista, totuudenmukaista ja käyttökelpoista, sillä se on omiaan luomaan luottamusta [Thomas et al., 2009]. Jollei työtehtäväkeskeistä kerrottavaa ole, on parempi käyttää aikansa kuulumisten vaihtamiseen. Informaatiotulva voi johtaa yliannostukseen, jos tietoa on yltäkylläisesti saatavilla eikä niiden hahmottaminen ja johdonmukainen käsittely ole mahdollista [Oldham and Da Silva, 2015].
+-Proaktiivinen viestintä, ollaan äänessä silloinkin, kun se ei olisi välttämätöntä. Spontaanilla kommunikoinnilla on havaittu olevan konfliktitilanteita paljastava ja ehkäisevä vaikutus [Hinds and Mortensen, 2005]. Matemaattinen malli puoltaa sitä, että halpa sähköinen roskaviestintä (e-cheap talk) luo luottamusta ja on kannattavampaa kuin sen laiminlyöminen [Wang and Redmiles, 2013]. Palautteen anto silloinkin, kun ei itse ole se pätevin sitä antamaan, on myös luottamusta herättävää - ainakin verrattuna siihen, että vain vaikenisi [Jarvenpaa et al., 1998]. Luottamussuhteen olemassaoon tunnistaakin siitä, että tiedon kanssa ei säästellä [Lin and Huang, 2010]. Tässä on kuitenkin syytä huomata se, että työtä suorittavasta tahon puhuessa työtehtävistä on vaihdettavan tiedon on syytä olla oikea-aikaista, totuudenmukaista ja käyttökelpoista, sillä se on omiaan luomaan luottamusta [Thomas et al., 2009]. Jollei työtehtäväkeskeistä kerrottavaa ole, on parempi käyttää aikansa kuulumisten vaihtamiseen. Informaatiotulva voi johtaa yliannostukseen, jos tietoa on yltäkylläisesti saatavilla eikä niiden hahmottaminen ja johdonmukainen käsittely ole mahdollista [Oldham and Da Silva, 2015].
 - Kun viestintä on suunnattu ylemmälle johdolle, on tärkeämpää viestinnän määrä kuin sen varsinainen laatu [Thomas et al., 2009]. Tämä voi johtua siitä, että varsinaista ruohonjuuritason työtä hahmottamaton taho luottaa, kun työtä näytetään tekevän, vaikka sisältö olisikin päiväykseltään vaihdettuja raportteja?
 - On huomattu, että proaktiiviset persoonallisuudet vaihtavat herkemmin tietoa muiden kanssa, luoden luottamusta ja ruokkien näin luovuutta [Gong et al., 2012].  Kriittisen tai oleellisen tiedon vaihtaminen luo luottamusta [Henttonen and Blomqvist, 2005].
 - Omista tekemisistään voi viestiä myös esimerkiksi Twitterin kaltaisin mikroblogien avulla. Tällaisten on huomattu lisäävän yhteisöllisyyttä, kun ihmiset oppivat tuntemaan toisiaan [Zhao and Rosson, 2009]. Tällöin heidän tulee toki tietää muiden olemassaolosta, joten omasta sosiaalisesta olemassaolostaan on hyvä kertoa muillekin. Haitatonta tämä ei välttämättä ole, sillä raja työn ja vapaa-ajan välillä on altis tällöin hämärtymään [Skeels and Grudin, 2009].
@@ -259,58 +259,58 @@ Luottamuksen luontia silmälläpitäen suunniteltu kahvihuonesimulointiohjelmist
 Ohjelmistoalan etätyöläisten välisen luottamuksen luominen mahdollistaa tehokkaan toimimisen. Tehokkuus on perusteltu tavoite, sillä tuloksekkaan tiimin on tutkittu lisäävän työviihtyvyyttä [Lin et al., 2008]. On mukavaa olla voittavassa joukkueessa.
 
 *Viiteluettelo*
-[Abdul-Rahman and Hailes, 2000]
-[Adams, 2001]
-[Aparna et al, 2009]
-[Bambacas and Patrickson, 2008]
-[Bardram and Hansen, 2010]
-[Belkin et al., 2013]
-[Blomqvist, 1997] Kirsimarja Blomqvist. The many faces of trust. Scandinavian journal of management 13 (3), 1997, 271-286.
-[Brahm and Kunze, 2012]
-[Casey, 2010]
-[Casey and Richardson, 2009]
-[Chandra et al., 2012]
-[Dabbish et al., 2012]
+[Abdul-Rahman and Hailes, 2000] Alfarez Abdul-Rahman and Stephen Hailes, Supporting trust in virtual communities. In: System Sciences, 2000. Proceedings of the 33rd Annual Hawaii International Conference, 1-9.
+[Adams, 2001] John D. Adams, Managing dispersed work effectively. Od Practitioner 33, 1 (2001), 9-15.
+[Aparna et al, 2009] Joshi Aparna, Mila B. Lazarova, and Hui Liao, Getting everyone on board: the role of inspirational leadership in geographically dispersed teams. Organization science 20, 1 (2009), 240-252.
+[Bambacas and Patrickson, 2008] Mary Bambacas and Margaret Patrickson, Interpersonal communication skills that enhance organisational commitment. Journal of Communication Management 12, 1 (2008), 51-72.
+[Bardram and Hansen, 2010] Jakob E. Bardram and Thomas R. Hansen, Context-based workplace awareness. Computer Supported Cooperative Work (CSCW) 19, 2 (2010), 105-138.
+[Belkin et al., 2013] Liuba Y. Belkin, Terri R. Kurtzberg, Charles E. Naguin, Signaling dominance in online negotiations: the role of affective tone. Negotiation and Conflict Management Research 6, 4 (2013), 285-304.
+[Blomqvist, 1997] Kirsimarja Blomqvist. The many faces of trust. Scandinavian journal of management 13, 3 (1997), 271-286.
+[Brahm and Kunze, 2012] Taiga Brahm and Florian Kunze, The role of trust climate in virtual teams. Journal of Managerial Psychology 27, 6 (2012), 595-614.
+[Casey, 2010] Valentine Casey, Developing trust in virtual software development teams. Journal of theoretical and applied electronic commerce research 5, 2 (2010), 41-58.
+[Casey and Richardson, 2009] Valentine Casey and Ita Richardson, Implementation of global software development: a structured approach. Software Process: Improvement and Practice 14, 5 (2009), 247-262.
+[Chandra et al., 2012] Shalini Chandra, Shirish C. Srivastava, and Yin-Leng Theng, Cognitive absorption and trust for workplace collaboration in virtual worlds: an information processing decision making perspective. Journal of the Association for Information Systems 13, 10 (October 2012), 797-835.
+[Dabbish et al., 2012] Laura Dabbish, Colleen Stuart, Jason Tsay, and Jim Herbsleb, Social coding in GitHub: transparency and collaboration in an open software repository. In: Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work, 1277-1286.
 [Derosa and Lepsinger, 2010] Darleen M. Derosa and Richard Lepsinger, Virtual Team Success: a Practical Guide for Working and Leading from a Distance. John Wiley and Sons, 2010.
-[DiMicco et al., 2008]
-[Dittrich and Giuffrida, 2011]
-[Dorairaj et al., 2012]
-[Ehrlich and Shami, 2010]
+[DiMicco et al., 2008] Joan DiMicco, David R. Millen, Werner Geyer, Casey Dugan, Beth Brownholtz, and Michael Muller, Motivations for social networking at work. In: Proceedings of the 2008 ACM conference on Computer supported cooperative work, 711-720.
+[Dittrich and Giuffrida, 2011] Yvonne Dittrich and Rosalba Giuffrida, Exploring the role of instant messaging in a global software development project. In: Global Software Engineering (ICGSE), 2011 6th IEEE International Conference, 103-112.
+[Dorairaj et al., 2012] Siva Dorairaj, James Noble, and Petra Malik, Understanding lack of trust in distributed agile teams: a grounded theory study. In: Proceedings of the EASE 2012, 81-90.
+[Ehrlich and Shami, 2010] Kate Ehrlich and N. Sadat Shami, Microblogging inside and outside the workplace. In: ICWSM.
 [Ford, 2001] Dianne Ford, Trust and Knowledge Management: The Seeds of Success. Queen's School of Business, Centre for Knowledge-Based Enterprises, 2001.
-[Fuller et al., 2012]
-[Giuffrida and Dittrich, 2014]
-[Giuffrida and Dittrich, 2015]
-[Golden, 2007]
-[Golden and Raghuram, 2010]
-[Gong et al., 2012]
-[Gutwin et al., 2005]
-[Henttonen and Blomqvist, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14 (2), 2005, 107-119.
-[Hinds and Mortensen, 2005]
-[Holste and Fields, 2010]
-[Jarvenpaa et al., 1998] @todo
-[Koehne et al., 2012] @todo
-[Kudesia and Elfenbein, 2013]
-[Lin and Huang, 2010]
-[Lin et al., 2008]
-[Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40 (3), 2009, 61-83.
-[Mulki and Jaramillo, 2011]
-[O'Leary and Mortensen, 2010]
-[Oldham and Da Silva, 2015]
-[Ou et al., 2010]
-[Plonka et al., 2015]
-[Rocco et al., 2000]
-[Sarbaugh-Thompson and Feldman, 1998]
-[Sepulveda, 2003]
-[Skeels and Grudin, 2009]
-[Stouten et al., 2006]
-[Sudweeks and Simoff, 2005]
-[Thom et al., 2012]
-[Thom-Santelli et al., 2010]
-[Thomas et al., 2009]
-[Trainer et al., 2011] @todo
+[Fuller et al., 2012] Christie M. Fuller, Kent Marett, and Douglas P. Twitchell, An examination of deception in virtual teams: effects of deception on task performance, mutuality, and trust. Professional Communication, IEEE Transactions on 55, 1 (2012), 20-35.
+[Giuffrida and Dittrich, 2014] Rosalba Giuffrida and Yvonne Dittrich, How social software supports cooperative practices in a globally distributed software project. In: Proceedings of the 7th International Workshop on Cooperative and Human Aspects of Software Engineering, 24-31.
+[Giuffrida and Dittrich, 2015] Rosalba Giuffrida and Yvonne Dittrich, A conceptual framework to study the role of communication through social software for coordination in globally-distributed software teams. Information and Software Technology 63 (2015), 11-30.
+[Golden, 2007] Timothy Golden, Co-workers who telework and the impact on those in the office: understanding the implications of virtual work for co-worker satisfaction and turnover intentions. Human Relations 60, 11 (2007), 1641-1667.
+[Golden and Raghuram, 2010] Timothy D. Golden and Sumita Raghuram, Teleworker knowledge sharing and the role of altered relational and technological interactions. Journal of Organizational Behavior 31, 8 (2010), 1061-1085.
+[Gong et al., 2012] Yaping Gong, Siu-Yin Cheung, Mo Wang, and Jia-Chi Huang, Unfolding the proactive process for creativity integration of the employee proactivity, information exchange, and psychological safety perspectives. Journal of Management 38, 5 (2012), 1611-1633.
+[Gutwin et al., 2005] Carl Gutwin, Kevin Schneider, David Paquette, and Reagan Penner, Supporting group awareness in distributed software development. In: Engineering Human Computer Interaction and Interactive Systems, 383-397.
+[Henttonen and Blomqvist, 2005] Kaisa Henttonen and Kirsimarja Blomqvist, Managing distance in a global virtual team: the evolution of trust through technology‐mediated relational communication. Strategic Change 14, 2 (2005), 107-119.
+[Hinds and Mortensen, 2005] Pamela J. Hinds and Mark Mortensen, Understanding conflict in geographically distributed teams: the moderating effects of shared identity, shared context, and spontaneous communication. Organization science 16, 3 (2005), 290-307.
+[Holste and Fields, 2010] Scott J. Holste and Dail Fields, Trust and tacit knowledge sharing and use. Journal of knowledge management 14, 1 (2010), 128-140.
+[Jarvenpaa et al., 1998] Sirkka L. Jarvenpaa and Dorothy E. Leidner, Communication and trust in global virtual teams. Journal of Computer‐Mediated Communication 3, 4 (1998), 0-0.
+[Koehne et al., 2012] Benjamin Koehne, Patrick C. Shih, and Judith S. Olson, Remote and alone: coping with being the remote member on the team. In: Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work (CSCW '12), 1257-1266.
+[Kudesia and Elfenbein, 2013] Ravi S. Kudesia; Hillary Anger Elfenbein, Nonverbal communication in the workplace. Nonverbal communication (2013), 805-832.
+[Lin and Huang, 2010] Tung-Ching Lin and Chien-Chih Huang, Withholding effort in knowledge contribution: the role of social exchange and social cognitive on project teams. Information & Management 47, 3 (2010), 188-196.
+[Lin et al., 2008] Chad Lin, Craig Standing, and Ying-Chieh Liu, A model to develop effective virtual teams. Decision Support Systems 45, 4 (2008), 1031-1045.
+[Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40, 3 (2009), 61-83.
+[Mulki and Jaramillo, 2011] Jay Prakash Mulki and Fernando Jaramillo, Workplace isolation: salespeople and supervisors in USA. The International Journal of Human Resource Management 22, 4 (2011), 902-923.
+[O'Leary and Mortensen, 2010] Michael Boyer O'Leary and Mark Mortensen, Go (con) figure: subgroups, imbalance, and isolates in geographically dispersed teams. Organization Science 21, 1 (2010), 115-131.
+[Oldham and Da Silva, 2015] Greg R. Oldham and Nancy Da Silva, The impact of digital technology on the generation and implementation of creative ideas in the workplace. Computers in Human Behavior 42 (2015) 5-11.
+[Ou et al., 2010] Carol XJ Ou, Robert N. Davison, Yi Liang, and Xuepan Zhong, The significance of instant messaging at work. In: Internet and Web Applications and Services (ICIW), 2010 Fifth International Conference, 102-109.
+[Plonka et al., 2015] Laura Plonka, Helen Sharp, Janet Van der Linden, and Yvonne Dittrich, Knowledge transfer in pair programming: an in-depth analysis. International Journal of Human-Computer Studies 73 (2015): 66-78.
+[Rocco et al., 2000] Elena Rocco, Thomas Finholt, Erik C. Hofer, and James Herbsleb, Designing as if trust mattered.Collaboratory for Research on Electronic Work (CREW) Technical Report (2000).
+[Sarbaugh-Thompson and Feldman, 1998] Marjorie Sarbaugh-Thompson and Martha S. Feldman, Electronic mail and organizational communication: does saying “hi” really matter? Organization science 9, 6 (1998), 685-698.
+[Sepulveda, 2003] Christian Sepulveda, Agile development and remote teams: learning to love the phone. In: Proceedings of the Agile Development Conference, 2003. ADC 2003. , 140-145.
+[Skeels and Grudin, 2009] Meredith M. Skeels, and Jonathan Grudin.When social networks cross boundaries: a case study of workplace use of facebook and linkedin. In: Proceedings of the ACM 2009 international conference on Supporting group work, 95-104.
+[Stouten et al., 2006] Jeroen Stouten, David De Cremer, and Eric van Dijk. Violating equality in social dilemmas: emotional and retributive reactions as a function of trust, attribution, and honesty. Personality and Social Psychology Bulletin 32, 7 (2006), 894-906.
+[Sudweeks and Simoff, 2005] Fay Sudweeks and Simeon J. Simoff, Leading conversations: communication behaviours of emergent leaders in virtual teams. In: System Sciences, 2005. HICSS'05. Proceedings of the 38th Annual Hawaii International Conference, 108a-108a.
+[Thom et al., 2012] Jennifer Thom, David Millen, and Joan DiMicco, Removing gamification from an enterprise SNS. In: Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work, 1067-1070.
+[Thom-Santelli et al., 2010] Jennifer Thom-Santelli, David R Millen, and Joan M. DiMicco, Characterizing global participation in an enterprise SNS. In: Proceedings of the 3rd international conference on Intercultural collaboration, 251-254.
+[Thomas et al., 2009] Gail Fann Thomas, Roxanne Zolin and Jackie L. Hartman, The central role of communication in developing trust and its effects on employee involvement. Journal of Business Communication (2009).
+[Trainer et al., 2011] Erik H. Trainer, Ban Al-Ani, and David F. Redmiles, Impact of collaborative traces on trustworthiness. In: Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering, 40-47.
+[Wang and Redmiles, 2013] Yi Wang and David Redmiles, Understanding cheap talk and the emergence of trust in global software engineering: an evolutionary game theory perspective. In: Cooperative and Human Aspects of Software Engineering (CHASE), 2013 6th International Workshop, 149-152.
 [Walterbusch et al., 2014] Marc Walterbusch, Matthias Gräuler, and Frank Teuteberg, How trust is defined: a qualitative and quantitative analysis of scientific literature. In: Twentieth Americas Conference on Information Systems, Savannah, 2014.
 [Wu et al., 2010]
-[Yi and Redmiles, 2013]
-[Zhao and Rosson, 2009]
-[Zolin et al., 2004] @todo
-[Zweig and Webster, 2002]
+[Zhao and Rosson, 2009] Dejin Zhao and Mary Beth Rosson, How and why people Twitter: the role that micro-blogging plays in informal communication at work. In: Proceedings of the ACM 2009 international conference on Supporting group work, 243-252.
+[Zolin et al., 2004] Roxanne Zolin, Pamela J. Hinds, Renate Fruchter, and Raymond E. Levitt, Interpersonal trust in cross-functional, geographically distributed work: a longitudinal study. Information and organization 14, 1 (2004), 1-26.
+[Zweig and Webster, 2002] David Zweig and Jane Webster, Where is the line between benign and invasive? An examination of psychological barriers to the acceptance of awareness monitoring systems. Journal of Organizational Behavior 23, 5 (2002), 605-633.
