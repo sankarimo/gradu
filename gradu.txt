@@ -2,8 +2,6 @@ Välimatka, välimatka, välimatka  - ohjelmistoalan etätyöläisten luottamusl
 
 *Johdanto aiheeseen*
 
-Tutkimuksen tavoitteena on selvittää kirjallisuuskatsauksen avulla, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille. Tämä vastaa Mitchellin ja Zigursin [2009] esittämään toiveeseen määritellä käytännössä sovellettavia luottamuksenluontitapoja. Tavoitteen saavuttamiseksi tutkimuksessa käydään läpi olemassaolevaa kirjallisuutta. Lähteeksi on valikoitu luottamusta, etätyötä ja näitä aiheita kiinnostavin osin sivuavia julkaisuja, joiden pohjalta käyttökelpoisia käytänteitä johdetaan. Lopputuloksena on yhteenveto kirjallisuudesta kumpuavista, hyviksi havaituista, käytännöistä, joilla toisistaan erillään työskentelevät ohjelmistoalan työntekijät voivat luoda luottamussuhteita toisiinsa. Luottamuksen luominen etätyöläisten välille on tärkeää, sillä se mahdollistaa tiimin kunniakkaan suoriutumisen tehtävästään [Henttonen and Blomqvist, 2005]. Lisäksi niin yksilön kuin organisaationkin hiljainen tieto tulee todennäköisemmin jaetuksi muiden kanssa luottamuksen vallitessa [Golden and Raghuram, 2010].
-
 Etätyö on ajasta ja paikasta riippumaton, luoville aloille vakiintunut työnteon muoto. Tämän on mahdollistanut teknologinen kehitys. Kun sähköä löytyy lähes kaikkialta ja luotettava internet-verkkoyhteys tarjoaa yhteyden maailmaan, ei ole väliä sillä, mitä kantoa työn suorittaja tuolinaan käyttää. Etätyöksi voidaan kutsua työtä, jossa kaikki kannot eivät sijaitse samassa metsässä.
 
 Luovaa tekemistä kuvastaa se, ettei työsuoritus ole mekaaninen. Tehtävät toimenpiteet eivät ole useinkaan toistuvia. Tyypillisesti samankaltaisista ammattitaidon palasista kootaan päivästä toiseen erilaisien yhdistelmien kautta uudenlaisia lopputuloksia. Luovan työn vastapari, mekaaninen työ, taas tavoittaa lopputulosta, joka on samanlaatuinen huolimatta työn suorittaneesta tekijästä.
@@ -24,45 +22,13 @@ Tutkimuskysymykset kuuluvat seuraavasti:
 1. Mitkä asiat luovat luottamusta ohjelmistoalan työläisten välille?
 2. Mitä ongelmia luottamuksen rakentamisessa ohjelmistoalan etätyöläisten välillä on?
 
-Tämä tutkimus keskittyy kirjallisuuskatsauksen kautta selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, mutta vähemmälle huomiolle ovat jääneet luottamuksen rakentumisen mekanismit. Tutkimus rakentuu olemassaolevan tiedon varaan, mutta poimii siitä nimenomaisesti tähän aihepiiriin soveltuvat osuudet. Tutkimusmenetelmä kuvataan seuraavassa luvussa.
+Tutkimuksen tavoitteena on selvittää kirjallisuuskatsauksen avulla, kuinka luottamusta voisi luoda ohjelmistoalan etätyöläisten välille. Tämä vastaa Mitchellin ja Zigursin [2009] esittämään toiveeseen määritellä käytännössä sovellettavia luottamuksenluontitapoja. Tavoitteen saavuttamiseksi tutkimuksessa käydään läpi olemassaolevaa kirjallisuutta. Lähteeksi on valikoitu luottamusta, etätyötä ja näitä aiheita kiinnostavin osin sivuavia julkaisuja, joiden pohjalta käyttökelpoisia käytänteitä johdetaan. Lopputuloksena on yhteenveto kirjallisuudesta kumpuavista, hyviksi havaituista, käytännöistä, joilla toisistaan erillään työskentelevät ohjelmistoalan työntekijät voivat luoda luottamussuhteita toisiinsa. Luottamuksen luominen etätyöläisten välille on tärkeää, sillä se mahdollistaa tiimin kunniakkaan suoriutumisen tehtävästään [Henttonen and Blomqvist, 2005]. Lisäksi niin yksilön kuin organisaationkin hiljainen tieto tulee todennäköisemmin jaetuksi muiden kanssa luottamuksen vallitessa [Golden and Raghuram, 2010].
 
-Tutkimusmenetelmän kuvauksen jälkeisissä luvuissa on tutkimuksen varsinainen anti. Ensinnä selvitetään, mitä luottamus on, ja mitä hyötyä siitä voi olla. Kun luottamuksen tärkeys on osoitettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
+Tämä tutkimus keskittyy kirjallisuuskatsauksen kautta selvittämään, kuinka etätyötä tekevien ohjelmistoalan ihmisten välinen luottamus syntyy. Ohjelmistoalan hajautettua työmuotoa on tutkittu valtavasti, milloin käytänteiden, työkalujen ja ongelmien kautta, mutta vähemmälle huomiolle ovat jääneet luottamuksen rakentumisen mekanismit. Tutkimus rakentuu olemassaolevan tiedon varaan, mutta poimii siitä nimenomaisesti tähän aihepiiriin soveltuvat osuudet. Katsauksella pyrittiin kartoittamaan, miten luottamusta voi rakentaa ohjelmistoalan etätyöläisten välille. Aihepiiri on rajattu näin tiukaksi, jotta vältettäisiin liiallista yleisluontoisuuttaan soveltamiskelvottoman tutkimuksen tekeminen.
+
+Tutkimus etenee käsitteitä pohjustavasti kohti lopun tuloksia. Ensinnä selvitetään, mitä luottamus on, ja mitä hyötyä siitä voi olla. Kun luottamuksen tärkeys on osoitettu, selvitetään, miten luottamusta voidaan perinteisessä työympäristössä rakentaa. Tämän jälkeen verrataan niitä eroja, joita etätyö työskentelytapana aiheuttaa luottamuksen luomiselle. Aivan lopuksi tutkimuksessa esitellään, kuinka ohjelmistoalalla työskentelevien etätyöläisten välille voidaan luoda luottamusta.
 
 Lopun yhteenvedossa käydään lyhyesti läpi tutkimuksen keskeiset löydökset, sekä näiden soveltamiseen kohdistuvat rajoitukset.
-
-*Tutkimusmenetelmän kuvaus*
-
-Tämän tutkimuksen sisältö pohjautuu kirjallisuuskatsauksella rajattuun nykytieteeseen. Katsauksella pyrittiin kartoittamaan, miten luottamusta voi rakentaa ohjelmistoalan etätyöläisten välille. Aihepiiri on rajattu näin tiukaksi, jotta vältettäisiin liiallista yleisluontoisuuttaan soveltamiskelvottoman tutkimuksen tekeminen.
-
-**Tietolähteet ja hakusanat**
-
-Tietolähteinä käytettiin tietojenkäsittelytieteiden alalla vakiintuneita tietokantoja, IEEE Xploreria ja ACM Digital Librarya. Näiden lisäksi hakuja tehtiin Google Scholar -palvelulla. Käytetyt hakusanat olivat kussakin samat.
-
-Avainsanoiksi valikoituivat luottamus, etätyö, ohjelmistokehitys, työntekijä ja työpaikka. Luottamus oli keskeisenä terminä kaikissa hakulausekkeissa mukana. Kieleksi valittiin yksinomaan englanti. Suomenkieliset termit käännettiin, käännöksille etsittiin samaa tarkoittavia vastineita ja näistä koottiin erilaisia hakulausekkeita. Hakulausekkeet muodostettiin yksityiskohtaisesta yleisemmiksi muotoillen, johtaen näin teoriassa hakujen edistyessä alati kasvavaan tulosjoukkoon.
-
-Aineistonhakuun käytettyjen hakusanojen lista oli seuraavanlainen:
-	1. trust (building OR developing) software development (remote work OR telecommuting) (employee OR workplace)
-	2. trust (building OR developing) software development (remote work OR telecommuting)
-	3. trust software development (remote work OR telecommuting)
-	4. trust (building OR developing) (remote work OR telecommuting)
-	5. trust (remote work OR telecommuting) (employee OR workplace)
-	6. trust ((building OR developing) OR software development OR (remote work OR telecommuting) OR (employee OR workplace))
-
-Itse hakutuloksiin ei liittynyt muunlaista tulosjoukon rajoittamista. Esimerkiksi aikaväliperusteinen rajaus ei ollut perusteltua koko aihepiirin tuoreuden ja suhteellisen suppeuden tähden.
-
-**Aineiston koostaminen**
-
-Lopulliseen aineistoon eivät päätynyt kaikki hakutuloksien tuomat julkaisut, vaan tässä käytettiin sisältöperusteista valikointia. Ensinnä hakutuloksista jätettiin huomiotta ne, jotka olivat hakutermien täsmäävyydestä huolimatta ohiampuvia. Kuten todettua, luottamus on sanana yleinen, ja sen tähden tuloslistalla oli julkaisuja, joissa käsiteltiin esimerkiksi käyttäjän luottamusta tietotekniseen sovellukseen, tietoturvallisen ohjelmiston piirteitä tai sopimusosapuoliorganisaation luotettavuuden arviointia. Tulos ei ole yllätys, sillä nämä ovat pitkään olleet tietojenkäsittelytieteissä hallitseva luottamustutkimuksen kohde [Abdul-Rahman and Hailes, 2000].
-
-Hakutuloksista otettiin otsikon ja tiivistelmän osuvuuden perusteella lähempään sisältötarkasteluun ne julkaisut, jotka eivät vielä olleet tarkastelun kohteiksi päätyneet. Tällä sisältötarkastelukierroksella artikkeli silmäiltiin pintapuolisesti läpi, tavoitteena etsiä yhtymäkohtia liittyen tutkittavaan aiheeseen. Jollei yhtymäkohtia ollut, poistettiin artikkeli aineistojen joukosta.
-
-Kunkin haun tuottamia tuloksia läpikäytiin tähän tapaan siihen saakka, kunnes relevantteja töitä ei enää kymmenen artikkelin osalta tullut vastaan. Tämän jälkeen siirryttiin tekemään seuraava haku. Näin muodostui varsinainen pohja-aineisto, jonka varaan tämä tutkimus tehtiin.
-
-**Lopullisen aineiston kokoaminen** 
-
-Hakujen suorittamisen ja tulosten valikoinnin pohjalta muodostunut aineistojoukko käytiin uudelleen läpi huolellisemmin, tällä kertaa muistiinpanoja tehden. Usein artikkeli sisälsi viitteitä työhön, joka ei ollut tullut hakulausekkeissa esiin. Tällöin viitattu tutkimus analysoitiin samoin perustein, kuin jos se olisi tullut haussa esille. Jos tämä viitattu tutkimus osoittautui tehtävää tutkimusta tukevaksi, liitettiin se aineistoon samalla tavoin muistiinpanojen purkamista odottamaan. Tällä tavoin toisaalta ilmeni käytettyjen hakusanojen vajavaisuus, mutta puutetta saatiin oikaistua tutkimuksen sisältöä tukevasti.
-
-On syytä huomata muodostuneen aineiston olevan vain rajoittunut otanta kaikesta olemassaolevasta tiedosta. Lopullista aineistoa rajoitti pelkän englannin käyttö hakutermeissä. Lisäksi Tampereen yliopistoa koskevat saatavuusrajoitukset estivät joidenkin otsikon osalta kiinnostavien artikkelien hyödyntämisen.
 
 *Luottamus työympäristössä*
 
