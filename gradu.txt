@@ -8,7 +8,7 @@ Etätyö on vuosituhannen mittaan kasvanut työmuoto, jossa ajasta ja paikasta e
 
 Ohjelmistoala on työn helpon siirrettävyyden ja sähköisien tuotoksien puolesta erittäin helposti etätyönä tehtävä työmuoto. Sillä työskenteleviä on joskus kärjistäen leimattu paremmin tietokoneiden kuin ihmisten kanssa toimeen tuleviksi ihmisparoiksi. Luottamus kanssatyöntekijöihin on silti ohjelmistoalan ihmisillekin tärkeä tekijä. Tämä tutkimus esittää, kuinka luottamusta voi luoda ohjelmistoalan etätyöntekijöiden välille.
 
-Avainsanat ja -sanonnat: ihmisten välinen luottamus, etätyö, ohjelmistoala, luottamuksen luominen
+Avainsanat ja -sanonnat: ihmisten välinen luottamus, etätyö, ohjelmistoala
 
 *Esipuhe*
 
