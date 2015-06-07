@@ -215,7 +215,7 @@ Liika luottavaisuus voi myös olla haitallista, sillä luottamus synnyttää kä
 [Adams, 2001] John D. Adams, Managing dispersed work effectively. Od Practitioner 33, 1 (2001), 9-15.
 [Aparna et al., 2009] Joshi Aparna, Mila B. Lazarova, and Hui Liao, Getting everyone on board: the role of inspirational leadership in geographically dispersed teams. Organization Science 20, 1 (2009), 240-252.
 [Bambacas and Patrickson, 2008] Mary Bambacas and Margaret Patrickson, Interpersonal communication skills that enhance organisational commitment. Journal of Communication Management 12, 1 (2008), 51-72.
-[Bardram and Hansen, 2010] Jakob E. Bardram and Thomas R. Hansen, Context-based workplace awareness. Computer Supported Cooperative Work (CSCW) 19, 2 (2010), 105-138.
+[Bardram and Hansen, 2010] Jakob E. Bardram and Thomas R. Hansen, Context-based workplace awareness. Computer Supported Cooperative Work 19, 2 (2010), 105-138.
 [Belkin et al., 2013] Liuba Y. Belkin, Terri R. Kurtzberg, and Charles E. Naguin, Signaling dominance in online negotiations: the role of affective tone. Negotiation and Conflict Management Research 6, 4 (2013), 285-304.
 [Blomqvist, 1997] Kirsimarja Blomqvist. The many faces of trust. Scandinavian Journal of Management 13, 3 (1997), 271-286.
 [Brahm and Kunze, 2012] Taiga Brahm and Florian Kunze, The role of trust climate in virtual teams. Journal of Managerial Psychology 27, 6 (2012), 595-614.
@@ -245,7 +245,7 @@ Liika luottavaisuus voi myös olla haitallista, sillä luottamus synnyttää kä
 [Kudesia and Elfenbein, 2013] Ravi S. Kudesia and Hillary Anger Elfenbein, Nonverbal communication in the workplace. Nonverbal communication (2013), 805-832.
 [Lin and Huang, 2010] Tung-Ching Lin and Chien-Chih Huang, Withholding effort in knowledge contribution: the role of social exchange and social cognitive on project teams. Information & Management 47, 3 (2010), 188-196.
 [Lin et al., 2008] Chad Lin, Craig Standing, and Ying-Chieh Liu, A model to develop effective virtual teams. Decision Support Systems 45, 4 (2008), 1031-1045.
-[McConnell, 2004] Steve McConnell, Code Complete, 2nd edition. Microsoft Press, 2004.
+[McConnell, 2004] Steve McConnell, Code Complete, 2nd ed. Microsoft Press, 2004.
 [Mitchell and Zigurs, 2009] Alanah Mitchell and Ilze Zigurs, Trust in virtual teams: solved or still a mystery? ACM SIGMIS Database 40, 3 (2009), 61-83.
 [Mulki and Jaramillo, 2011] Jay Prakash Mulki and Fernando Jaramillo, Workplace isolation: salespeople and supervisors in USA. The International Journal of Human Resource Management 22, 4 (2011), 902-923.
 [O'Leary and Mortensen, 2010] Michael Boyer O'Leary and Mark Mortensen, Go (con) figure: subgroups, imbalance, and isolates in geographically dispersed teams. Organization Science 21, 1 (2010), 115-131.
