@@ -10,6 +10,26 @@ Ohjelmistoala on työn helpon siirrettävyyden ja sähköisien tuotoksien puoles
 
 Avainsanat ja -sanonnat: ihmisten välinen luottamus, etätyö, ohjelmistoala, luottamuksen luominen
 
+*Esipuhe*
+
+En tiedä mitä haluta
+olen saavuttanut
+mitä kuvittelin etsiväni
+eikä se näyttänyt oikealta
+
+- A. W. Yrjänä
+
+Aihe valikoitui kivusta.
+
+Suhtauduin tähän työhön kuin muodikkaasti ketterään ohjelmistoprojektiin. Kulutin enemmän aikaa mietiskellen kuin tehden. Kun lopputulos näytti väärältä, korjasin suuntaa. Tavoittelin vähäsanaista, jotta lukeminen ja sisäistäminen olisi mahdollisimman nopeaa. Todennäköisyyksien valossa epäonnistuin.
+
+Kiitos kuuluu kahtaalle. Toisaalta heille, joiden kanssa olen viime vuosina puhunut tästä aiheesta. Toisaalta heille, joiden kanssa en ole viime aikoina puhunut, koska kirjoitustyö on vienyt huomioni. Lohdun sanoja löytyy kummallekin kastille. Toisaalta pahin paasaus on nyt takana ja toisaalta kohdatessa olisin kahvin äärellä puhunut juuri niin tylsästi tästä aiheesta kuin olen nyt kirjoittanut.
+
+Kiitos kärsivällisyydestä.
+
+Tampereella 7. kesäkuuta 2015
+Timo Virtanen
+
 *Johdanto*
 
 Etätyö on ajasta ja paikasta riippumaton, luoville aloille vakiintunut työnteon muoto, jonka on mahdollistanut teknologinen kehitys. Kun sähköä löytyy lähes kaikkialta ja luotettava internet-verkkoyhteys tarjoaa yhteyden maailmaan, ei ole väliä sillä, mitä kantoa työn suorittaja tuolinaan käyttää. Etätyöksi voidaan kutsua työtä, jossa kaikki kannot eivät sijaitse samassa metsässä. Jotta työtä voidaan tehdä etänä, tulee sen olla ajasta ja paikasta irrotettavaa. Vielä nykyään paperikone ei siirry tehtaalta metsään kovin kivuttomasti. Toisin on kannettavan tietokoneen kanssa, joka yleensä onkin etätyöntekijän keskeisin työväline. Tietokoneella voidaan tuottaa monenlaisia aineettomia hyödykkeitä, kuten ohjelmistoja. Vain luovuus on rajana.
